@@ -1,0 +1,36 @@
+	component de2_70 is
+		port (
+			clk_clk                 : in    std_logic                     := 'X';             -- clk
+			av_config_SDAT          : inout std_logic                     := 'X';             -- SDAT
+			av_config_SCLK          : out   std_logic;                                        -- SCLK
+			videoin_PIXEL_CLK       : in    std_logic                     := 'X';             -- PIXEL_CLK
+			videoin_LINE_VALID      : in    std_logic                     := 'X';             -- LINE_VALID
+			videoin_FRAME_VALID     : in    std_logic                     := 'X';             -- FRAME_VALID
+			videoin_pixel_clk_reset : in    std_logic                     := 'X';             -- pixel_clk_reset
+			videoin_PIXEL_DATA      : in    std_logic_vector(11 downto 0) := (others => 'X'); -- PIXEL_DATA
+			sram_DQ                 : inout std_logic_vector(31 downto 0) := (others => 'X'); -- DQ
+			sram_DPA                : inout std_logic_vector(3 downto 0)  := (others => 'X'); -- DPA
+			sram_ADDR               : out   std_logic_vector(18 downto 0);                    -- ADDR
+			sram_ADSC_N             : out   std_logic;                                        -- ADSC_N
+			sram_ADSP_N             : out   std_logic;                                        -- ADSP_N
+			sram_ADV_N              : out   std_logic;                                        -- ADV_N
+			sram_BE_N               : out   std_logic_vector(3 downto 0);                     -- BE_N
+			sram_CE1_N              : out   std_logic;                                        -- CE1_N
+			sram_CE2                : out   std_logic;                                        -- CE2
+			sram_CE3_N              : out   std_logic;                                        -- CE3_N
+			sram_GW_N               : out   std_logic;                                        -- GW_N
+			sram_OE_N               : out   std_logic;                                        -- OE_N
+			sram_WE_N               : out   std_logic;                                        -- WE_N
+			sram_CLK                : out   std_logic;                                        -- CLK
+			vga_out_CLK             : out   std_logic;                                        -- CLK
+			vga_out_HS              : out   std_logic;                                        -- HS
+			vga_out_VS              : out   std_logic;                                        -- VS
+			vga_out_BLANK           : out   std_logic;                                        -- BLANK
+			vga_out_SYNC            : out   std_logic;                                        -- SYNC
+			vga_out_R               : out   std_logic_vector(9 downto 0);                     -- R
+			vga_out_G               : out   std_logic_vector(9 downto 0);                     -- G
+			vga_out_B               : out   std_logic_vector(9 downto 0);                     -- B
+			camera_clk_clk          : out   std_logic                                         -- clk
+		);
+	end component de2_70;
+

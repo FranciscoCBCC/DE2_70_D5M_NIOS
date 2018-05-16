@@ -1,2 +1,1 @@
-# DE2_70_D5M_NIOS
-DE2_70+TRDB-D5M+NIOS
+Implementação/configuração da DE2_70 para a captura de imagens da câmera TRDB-D5M.

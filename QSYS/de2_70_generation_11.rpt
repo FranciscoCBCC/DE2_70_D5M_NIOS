@@ -1,0 +1,162 @@
+Info: Starting: Create block symbol file (.bsf)
+Info: ip-generate --project-directory=C:/Users/Francisco/Desktop/DE2_70_D5M/QSYS/ --output-directory=C:/Users/Francisco/Desktop/DE2_70_D5M/QSYS/de2_70/ --report-file=bsf:C:/Users/Francisco/Desktop/DE2_70_D5M/QSYS/de2_70.bsf --system-info=DEVICE_FAMILY="Cyclone II" --system-info=DEVICE=EP2C70F896C6 --system-info=DEVICE_SPEEDGRADE=6 --component-file=C:/Users/Francisco/Desktop/DE2_70_D5M/QSYS/de2_70.qsys
+Progress: Loading QSYS/de2_70.qsys
+Progress: Reading input file
+Progress: Adding clk_0 [clock_source 13.0]
+Progress: Parameterizing module clk_0
+Progress: Adding clock_bridge [altera_clock_bridge 13.0]
+Progress: Parameterizing module clock_bridge
+Progress: Adding Clock_Signals [altera_up_clocks 13.0]
+Progress: Parameterizing module Clock_Signals
+Progress: Adding AV_Config [altera_up_avalon_audio_and_video_config 13.0]
+Progress: Parameterizing module AV_Config
+Progress: Adding Video_In_Decoder [altera_up_avalon_video_decoder 13.0]
+Progress: Parameterizing module Video_In_Decoder
+Progress: Adding Video_Bayer_Pattern_Resampler [altera_up_avalon_video_bayer_resampler 13.0]
+Progress: Parameterizing module Video_Bayer_Pattern_Resampler
+Progress: Adding Video_Clipper [altera_up_avalon_video_clipper 13.0]
+Progress: Parameterizing module Video_Clipper
+Progress: Adding Video_Scaler [altera_up_avalon_video_scaler 13.0]
+Progress: Parameterizing module Video_Scaler
+Progress: Adding Video_RGB_Resampler [altera_up_avalon_video_rgb_resampler 13.0]
+Progress: Parameterizing module Video_RGB_Resampler
+Progress: Adding Video_DMA [altera_up_avalon_video_dma_controller 13.0]
+Progress: Parameterizing module Video_DMA
+Progress: Adding Pixel_Buffer [altera_up_avalon_sram 13.0]
+Progress: Parameterizing module Pixel_Buffer
+Progress: Adding Pixel_Buffer_DMA [altera_up_avalon_video_pixel_buffer_dma 13.0]
+Progress: Parameterizing module Pixel_Buffer_DMA
+Progress: Adding Pixel_RGB_Resampler [altera_up_avalon_video_rgb_resampler 13.0]
+Progress: Parameterizing module Pixel_RGB_Resampler
+Progress: Adding Pixel_Scaler [altera_up_avalon_video_scaler 13.0]
+Progress: Parameterizing module Pixel_Scaler
+Progress: Adding Dual_Clock_FIFO [altera_up_avalon_video_dual_clock_buffer 13.0]
+Progress: Parameterizing module Dual_Clock_FIFO
+Progress: Adding VGA_Controller [altera_up_avalon_video_vga_controller 13.0]
+Progress: Parameterizing module VGA_Controller
+Progress: Building connections
+Progress: Parameterizing connections
+Progress: Validating
+Progress: Done reading input file
+Info: de2_70.Video_In_Decoder: Video In Stream: Format: 2592 x 1944 (default) with Colour: 8 (bits) x 1 (planes) (RGB Bayer Pattern)
+Info: de2_70.Video_Bayer_Pattern_Resampler: Change in Resolution: 2592 x 1944 -> 1296 x 972
+Info: de2_70.Video_Clipper: Change in Resolution: 1296 x 972 -> 1280 x 960
+Info: de2_70.Video_Scaler: Change in Resolution: 1280 x 960 -> 640 x 240
+Info: de2_70.Video_RGB_Resampler: RGB Resampling: 8 (bits) x 3 (planes) -> 16 (bits) x 1 (planes)
+Info: de2_70.Pixel_RGB_Resampler: RGB Resampling: 16 (bits) x 1 (planes) -> 10 (bits) x 3 (planes)
+Info: de2_70.Pixel_Scaler: Change in Resolution: 640 x 240 -> 640 x 480
+Info: de2_70.VGA_Controller: Video Output Stream: Format: 640 x 480 with Color: 10 (bits) x 3 (planes)
+Warning: de2_70.AV_Config: AV_Config.avalon_av_config_slave must be connected to an Avalon-MM master
+Warning: de2_70.Video_DMA: Video_DMA.avalon_dma_control_slave must be connected to an Avalon-MM master
+Warning: de2_70.Pixel_Buffer_DMA: Pixel_Buffer_DMA.avalon_control_slave must be connected to an Avalon-MM master
+Info: ip-generate succeeded.
+Info: Finished: Create block symbol file (.bsf)
+Info: 
+Info: Starting: Create HDL design files for synthesis
+Info: ip-generate --project-directory=C:/Users/Francisco/Desktop/DE2_70_D5M/QSYS/ --output-directory=C:/Users/Francisco/Desktop/DE2_70_D5M/QSYS/de2_70/synthesis/ --file-set=QUARTUS_SYNTH --report-file=sopcinfo:C:/Users/Francisco/Desktop/DE2_70_D5M/QSYS/de2_70.sopcinfo --report-file=html:C:/Users/Francisco/Desktop/DE2_70_D5M/QSYS/de2_70.html --report-file=qip:C:/Users/Francisco/Desktop/DE2_70_D5M/QSYS/de2_70/synthesis/de2_70.qip --report-file=cmp:C:/Users/Francisco/Desktop/DE2_70_D5M/QSYS/de2_70.cmp --report-file=svd --system-info=DEVICE_FAMILY="Cyclone II" --system-info=DEVICE=EP2C70F896C6 --system-info=DEVICE_SPEEDGRADE=6 --component-file=C:/Users/Francisco/Desktop/DE2_70_D5M/QSYS/de2_70.qsys --language=VHDL
+Progress: Loading QSYS/de2_70.qsys
+Progress: Reading input file
+Progress: Adding clk_0 [clock_source 13.0]
+Progress: Parameterizing module clk_0
+Progress: Adding clock_bridge [altera_clock_bridge 13.0]
+Progress: Parameterizing module clock_bridge
+Progress: Adding Clock_Signals [altera_up_clocks 13.0]
+Progress: Parameterizing module Clock_Signals
+Progress: Adding AV_Config [altera_up_avalon_audio_and_video_config 13.0]
+Progress: Parameterizing module AV_Config
+Progress: Adding Video_In_Decoder [altera_up_avalon_video_decoder 13.0]
+Progress: Parameterizing module Video_In_Decoder
+Progress: Adding Video_Bayer_Pattern_Resampler [altera_up_avalon_video_bayer_resampler 13.0]
+Progress: Parameterizing module Video_Bayer_Pattern_Resampler
+Progress: Adding Video_Clipper [altera_up_avalon_video_clipper 13.0]
+Progress: Parameterizing module Video_Clipper
+Progress: Adding Video_Scaler [altera_up_avalon_video_scaler 13.0]
+Progress: Parameterizing module Video_Scaler
+Progress: Adding Video_RGB_Resampler [altera_up_avalon_video_rgb_resampler 13.0]
+Progress: Parameterizing module Video_RGB_Resampler
+Progress: Adding Video_DMA [altera_up_avalon_video_dma_controller 13.0]
+Progress: Parameterizing module Video_DMA
+Progress: Adding Pixel_Buffer [altera_up_avalon_sram 13.0]
+Progress: Parameterizing module Pixel_Buffer
+Progress: Adding Pixel_Buffer_DMA [altera_up_avalon_video_pixel_buffer_dma 13.0]
+Progress: Parameterizing module Pixel_Buffer_DMA
+Progress: Adding Pixel_RGB_Resampler [altera_up_avalon_video_rgb_resampler 13.0]
+Progress: Parameterizing module Pixel_RGB_Resampler
+Progress: Adding Pixel_Scaler [altera_up_avalon_video_scaler 13.0]
+Progress: Parameterizing module Pixel_Scaler
+Progress: Adding Dual_Clock_FIFO [altera_up_avalon_video_dual_clock_buffer 13.0]
+Progress: Parameterizing module Dual_Clock_FIFO
+Progress: Adding VGA_Controller [altera_up_avalon_video_vga_controller 13.0]
+Progress: Parameterizing module VGA_Controller
+Progress: Building connections
+Progress: Parameterizing connections
+Progress: Validating
+Progress: Done reading input file
+Info: de2_70.Video_In_Decoder: Video In Stream: Format: 2592 x 1944 (default) with Colour: 8 (bits) x 1 (planes) (RGB Bayer Pattern)
+Info: de2_70.Video_Bayer_Pattern_Resampler: Change in Resolution: 2592 x 1944 -> 1296 x 972
+Info: de2_70.Video_Clipper: Change in Resolution: 1296 x 972 -> 1280 x 960
+Info: de2_70.Video_Scaler: Change in Resolution: 1280 x 960 -> 640 x 240
+Info: de2_70.Video_RGB_Resampler: RGB Resampling: 8 (bits) x 3 (planes) -> 16 (bits) x 1 (planes)
+Info: de2_70.Pixel_RGB_Resampler: RGB Resampling: 16 (bits) x 1 (planes) -> 10 (bits) x 3 (planes)
+Info: de2_70.Pixel_Scaler: Change in Resolution: 640 x 240 -> 640 x 480
+Info: de2_70.VGA_Controller: Video Output Stream: Format: 640 x 480 with Color: 10 (bits) x 3 (planes)
+Warning: de2_70.AV_Config: AV_Config.avalon_av_config_slave must be connected to an Avalon-MM master
+Warning: de2_70.Video_DMA: Video_DMA.avalon_dma_control_slave must be connected to an Avalon-MM master
+Warning: de2_70.Pixel_Buffer_DMA: Pixel_Buffer_DMA.avalon_control_slave must be connected to an Avalon-MM master
+Info: de2_70: Generating de2_70 "de2_70" for QUARTUS_SYNTH
+Info: pipeline_bridge_swap_transform: After transform: 16 modules, 43 connections
+Info: No custom instruction connections, skipping transform 
+Info: merlin_translator_transform: After transform: 19 modules, 52 connections
+Info: merlin_domain_transform: After transform: 24 modules, 76 connections
+Info: merlin_router_transform: After transform: 27 modules, 85 connections
+Info: reset_adaptation_transform: After transform: 29 modules, 89 connections
+Info: merlin_network_to_switch_transform: After transform: 34 modules, 99 connections
+Info: merlin_width_transform: After transform: 36 modules, 105 connections
+Info: merlin_mm_transform: After transform: 36 modules, 105 connections
+Info: Clock_Signals: Starting Generation of Required Clocks for DE-Series Boards
+Info: Clock_Signals: "de2_70" instantiated altera_up_clocks "Clock_Signals"
+Info: AV_Config: Starting Generation of Audio and Video Config
+Info: AV_Config: "de2_70" instantiated altera_up_avalon_audio_and_video_config "AV_Config"
+Info: Video_In_Decoder: Starting Generation of Video In Decoder
+Info: Video_In_Decoder: "de2_70" instantiated altera_up_avalon_video_decoder "Video_In_Decoder"
+Info: Video_Bayer_Pattern_Resampler: Starting Generation of Video Bayer Pattern Resampler
+Info: Video_Bayer_Pattern_Resampler: "de2_70" instantiated altera_up_avalon_video_bayer_resampler "Video_Bayer_Pattern_Resampler"
+Info: Video_Clipper: Starting generation of the video clipper
+Info: Video_Clipper: "de2_70" instantiated altera_up_avalon_video_clipper "Video_Clipper"
+Info: Video_Scaler: Starting Generation of Video Scaler
+Info: Video_Scaler: "de2_70" instantiated altera_up_avalon_video_scaler "Video_Scaler"
+Info: Video_RGB_Resampler: Starting Generation of Video RGB Resampler
+Info: Video_RGB_Resampler: "de2_70" instantiated altera_up_avalon_video_rgb_resampler "Video_RGB_Resampler"
+Info: Video_DMA: Starting Generation of Video DMA Controller
+Info: Video_DMA: "de2_70" instantiated altera_up_avalon_video_dma_controller "Video_DMA"
+Info: Pixel_Buffer: Starting Generation of SRAM or SSRAM Controller
+Info: Pixel_Buffer: "de2_70" instantiated altera_up_avalon_sram "Pixel_Buffer"
+Info: Pixel_Buffer_DMA: Starting Generation of VGA Pixel Buffer
+Info: Pixel_Buffer_DMA: "de2_70" instantiated altera_up_avalon_video_pixel_buffer_dma "Pixel_Buffer_DMA"
+Info: Pixel_RGB_Resampler: Starting Generation of Video RGB Resampler
+Info: Pixel_RGB_Resampler: "de2_70" instantiated altera_up_avalon_video_rgb_resampler "Pixel_RGB_Resampler"
+Info: Pixel_Scaler: Starting Generation of Video Scaler
+Info: Pixel_Scaler: "de2_70" instantiated altera_up_avalon_video_scaler "Pixel_Scaler"
+Info: Reusing file C:/Users/Francisco/Desktop/DE2_70_D5M/QSYS/de2_70/synthesis/submodules/altera_up_video_scaler_shrink.v
+Info: Reusing file C:/Users/Francisco/Desktop/DE2_70_D5M/QSYS/de2_70/synthesis/submodules/altera_up_video_scaler_multiply_width.v
+Info: Reusing file C:/Users/Francisco/Desktop/DE2_70_D5M/QSYS/de2_70/synthesis/submodules/altera_up_video_scaler_multiply_height.v
+Info: Dual_Clock_FIFO: Starting Generation of the Dual Clock Buffer
+Info: Dual_Clock_FIFO: "de2_70" instantiated altera_up_avalon_video_dual_clock_buffer "Dual_Clock_FIFO"
+Info: VGA_Controller: Starting Generation of VGA Controller
+Info: VGA_Controller: "de2_70" instantiated altera_up_avalon_video_vga_controller "VGA_Controller"
+Info: Video_DMA_avalon_dma_master_translator: "de2_70" instantiated altera_merlin_master_translator "Video_DMA_avalon_dma_master_translator"
+Info: Pixel_Buffer_avalon_ssram_slave_translator: "de2_70" instantiated altera_merlin_slave_translator "Pixel_Buffer_avalon_ssram_slave_translator"
+Info: Video_DMA_avalon_dma_master_translator_avalon_universal_master_0_agent: "de2_70" instantiated altera_merlin_master_agent "Video_DMA_avalon_dma_master_translator_avalon_universal_master_0_agent"
+Info: Pixel_Buffer_avalon_ssram_slave_translator_avalon_universal_slave_0_agent: "de2_70" instantiated altera_merlin_slave_agent "Pixel_Buffer_avalon_ssram_slave_translator_avalon_universal_slave_0_agent"
+Info: Pixel_Buffer_avalon_ssram_slave_translator_avalon_universal_slave_0_agent_rsp_fifo: "de2_70" instantiated altera_avalon_sc_fifo "Pixel_Buffer_avalon_ssram_slave_translator_avalon_universal_slave_0_agent_rsp_fifo"
+Info: addr_router: "de2_70" instantiated altera_merlin_router "addr_router"
+Info: id_router: "de2_70" instantiated altera_merlin_router "id_router"
+Info: rst_controller: "de2_70" instantiated altera_reset_controller "rst_controller"
+Info: cmd_xbar_demux: "de2_70" instantiated altera_merlin_demultiplexer "cmd_xbar_demux"
+Info: cmd_xbar_mux: "de2_70" instantiated altera_merlin_multiplexer "cmd_xbar_mux"
+Info: rsp_xbar_demux: "de2_70" instantiated altera_merlin_demultiplexer "rsp_xbar_demux"
+Info: width_adapter: "de2_70" instantiated altera_merlin_width_adapter "width_adapter"
+Info: Reusing file C:/Users/Francisco/Desktop/DE2_70_D5M/QSYS/de2_70/synthesis/submodules/altera_merlin_burst_uncompressor.sv
+Info: de2_70: Done de2_70" with 27 modules, 81 files, 1201530 bytes
+Info: ip-generate succeeded.
+Info: Finished: Create HDL design files for synthesis
