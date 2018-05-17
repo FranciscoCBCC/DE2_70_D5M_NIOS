@@ -1,6 +1,7 @@
 	component de2_70 is
 		port (
 			clk_clk                 : in    std_logic                     := 'X';             -- clk
+			sdram_clk_clk           : out   std_logic;                                        -- clk
 			av_config_SDAT          : inout std_logic                     := 'X';             -- SDAT
 			av_config_SCLK          : out   std_logic;                                        -- SCLK
 			videoin_PIXEL_CLK       : in    std_logic                     := 'X';             -- PIXEL_CLK
@@ -30,7 +31,16 @@
 			vga_out_R               : out   std_logic_vector(9 downto 0);                     -- R
 			vga_out_G               : out   std_logic_vector(9 downto 0);                     -- G
 			vga_out_B               : out   std_logic_vector(9 downto 0);                     -- B
-			camera_clk_clk          : out   std_logic                                         -- clk
+			camera_clk_clk          : out   std_logic;                                        -- clk
+			sdram_wire_addr         : out   std_logic_vector(12 downto 0);                    -- addr
+			sdram_wire_ba           : out   std_logic_vector(1 downto 0);                     -- ba
+			sdram_wire_cas_n        : out   std_logic;                                        -- cas_n
+			sdram_wire_cke          : out   std_logic;                                        -- cke
+			sdram_wire_cs_n         : out   std_logic;                                        -- cs_n
+			sdram_wire_dq           : inout std_logic_vector(15 downto 0) := (others => 'X'); -- dq
+			sdram_wire_dqm          : out   std_logic_vector(1 downto 0);                     -- dqm
+			sdram_wire_ras_n        : out   std_logic;                                        -- ras_n
+			sdram_wire_we_n         : out   std_logic                                         -- we_n
 		);
 	end component de2_70;
 

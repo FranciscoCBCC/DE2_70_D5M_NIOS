@@ -10,7 +10,7 @@ ENTITY DE2_70_D5M IS
 			GPIO_1							: INOUT STD_LOGIC_VECTOR(15 DOWNTO 0);                        
 			
 			IO_CLKOUTn1                : OUT   STD_LOGIC; 														  --XCLKIN
-			KEY                        : IN 	  STD_LOGIC_VECTOR(1 DOWNTO 0);
+			KEY                        : IN 	  STD_LOGIC_VECTOR(2 DOWNTO 0); -- 0-reset camera; 1-trigger e 2-reset sistema
 			
 			DE2_70_AV_CONFIG_SDAT          : inout std_logic                     := 'X';             -- SDAT
 			DE2_70_AV_CONFIG_SCLK          : out   std_logic;                                        -- SCLK
@@ -44,7 +44,15 @@ ENTITY DE2_70_D5M IS
 			DE2_70_VGA_OUT_SYNC            : out   std_logic;                                        -- SYNC           
 			DE2_70_VGA_OUT_R               : out   std_logic_vector(9 downto 0);                     -- R           
 			DE2_70_VGA_OUT_G               : out   std_logic_vector(9 downto 0);                     -- G           
-			DE2_70_VGA_OUT_B               : out   std_logic_vector(9 downto 0)                      -- B          
+			DE2_70_VGA_OUT_B               : out   std_logic_vector(9 downto 0);                     -- B          
+			
+			--SDRAM
+			DRAM_DQ : INOUT STD_LOGIC_VECTOR (15 DOWNTO 0);
+			DRAM0_ADDR : OUT STD_LOGIC_VECTOR (12 DOWNTO 0);
+			DRAM0_BA_1, DRAM0_BA_0 : BUFFER STD_LOGIC;
+			DRAM0_CAS_N, DRAM0_RAS_N, DRAM0_CLK : OUT STD_LOGIC;
+			DRAM0_CKE, DRAM0_CS_N, DRAM0_WE_N : OUT STD_LOGIC;
+			DRAM0_UDQM, DRAM0_LDQM : BUFFER STD_LOGIC
 
 	);
 END DE2_70_D5M;
@@ -54,6 +62,7 @@ ARCHITECTURE Structure OF DE2_70_D5M IS
     component de2_70 is
         port (
 				clk_clk                 : in    std_logic                     := 'X';             -- clk
+				--reset_reset_n : IN STD_LOGIC;
 				
             av_config_SDAT          : inout std_logic                     := 'X';				 -- SDAT
             av_config_SCLK          : out   std_logic;                                        -- SCLK
@@ -87,7 +96,19 @@ ARCHITECTURE Structure OF DE2_70_D5M IS
             vga_out_R               : out   std_logic_vector(9 downto 0);                     -- R
             vga_out_G               : out   std_logic_vector(9 downto 0);                     -- G
             vga_out_B               : out   std_logic_vector(9 downto 0);                     -- B
-            camera_clk_clk          : out   std_logic                                         -- clk
+            camera_clk_clk          : out   std_logic;                                        -- clk
+				
+				--SDRAM
+				sdram_clk_clk : OUT STD_LOGIC;
+				sdram_wire_addr : OUT STD_LOGIC_VECTOR(12 DOWNTO 0);
+				sdram_wire_ba : BUFFER STD_LOGIC_VECTOR(1 DOWNTO 0);
+				sdram_wire_cas_n : OUT STD_LOGIC;
+				sdram_wire_cke : OUT STD_LOGIC;
+				sdram_wire_cs_n : OUT STD_LOGIC;
+				sdram_wire_dq : INOUT STD_LOGIC_VECTOR(15 DOWNTO 0);
+				sdram_wire_dqm : BUFFER STD_LOGIC_VECTOR(1 DOWNTO 0);
+				sdram_wire_ras_n : OUT STD_LOGIC;
+				sdram_wire_we_n : OUT STD_LOGIC
         );
     end component;
 
@@ -100,6 +121,7 @@ ARCHITECTURE Structure OF DE2_70_D5M IS
 		  		  
         port map (
             clk_clk                 => CLOCK_50,                 		  --        clk.clk
+				--reset_reset_n => KEY(2),
 				
             av_config_SDAT          => DE2_70_AV_CONFIG_SDAT,          --  av_config.SDAT
             av_config_SCLK          => DE2_70_AV_CONFIG_SCLK,          --           .SCLK
@@ -133,6 +155,20 @@ ARCHITECTURE Structure OF DE2_70_D5M IS
             vga_out_R               => DE2_70_VGA_OUT_R,               --           .R
             vga_out_G               => DE2_70_VGA_OUT_G,               --           .G
             vga_out_B               => DE2_70_VGA_OUT_B,               --           .B	
-            camera_clk_clk          => IO_CLKOUTn1          			  -- camera_clk.clk
+            camera_clk_clk          => IO_CLKOUTn1,         			  -- camera_clk.clk
+				
+				--SDRAM
+				sdram_clk_clk => DRAM0_CLK,			
+				sdram_wire_addr => DRAM0_ADDR,			
+				sdram_wire_ba(0) => DRAM0_BA_0, 
+				sdram_wire_ba(1) => DRAM0_BA_1, 			
+				sdram_wire_cas_n => DRAM0_CAS_N,
+				sdram_wire_cke => DRAM0_CKE,
+				sdram_wire_cs_n => DRAM0_CS_N,
+				sdram_wire_dq => DRAM_DQ,			
+				sdram_wire_dqm(0) => DRAM0_LDQM,
+				sdram_wire_dqm(1) => DRAM0_UDQM,			
+				sdram_wire_ras_n => DRAM0_RAS_N,
+				sdram_wire_we_n => DRAM0_WE_N
         );
 END Structure;

@@ -47,23 +47,23 @@ module de2_70_addr_router_default_decode
      parameter DEFAULT_CHANNEL = 0,
                DEFAULT_WR_CHANNEL = -1,
                DEFAULT_RD_CHANNEL = -1,
-               DEFAULT_DESTID = 0 
+               DEFAULT_DESTID = 1 
    )
-  (output [70 - 70 : 0] default_destination_id,
-   output [2-1 : 0] default_wr_channel,
-   output [2-1 : 0] default_rd_channel,
-   output [2-1 : 0] default_src_channel
+  (output [76 - 74 : 0] default_destination_id,
+   output [6-1 : 0] default_wr_channel,
+   output [6-1 : 0] default_rd_channel,
+   output [6-1 : 0] default_src_channel
   );
 
   assign default_destination_id = 
-    DEFAULT_DESTID[70 - 70 : 0];
+    DEFAULT_DESTID[76 - 74 : 0];
 
   generate begin : default_decode
     if (DEFAULT_CHANNEL == -1) begin
       assign default_src_channel = '0;
     end
     else begin
-      assign default_src_channel = 2'b1 << DEFAULT_CHANNEL;
+      assign default_src_channel = 6'b1 << DEFAULT_CHANNEL;
     end
   end
   endgenerate
@@ -74,8 +74,8 @@ module de2_70_addr_router_default_decode
       assign default_rd_channel = '0;
     end
     else begin
-      assign default_wr_channel = 2'b1 << DEFAULT_WR_CHANNEL;
-      assign default_rd_channel = 2'b1 << DEFAULT_RD_CHANNEL;
+      assign default_wr_channel = 6'b1 << DEFAULT_WR_CHANNEL;
+      assign default_rd_channel = 6'b1 << DEFAULT_RD_CHANNEL;
     end
   end
   endgenerate
@@ -95,7 +95,7 @@ module de2_70_addr_router
     // Command Sink (Input)
     // -------------------
     input                       sink_valid,
-    input  [81-1 : 0]    sink_data,
+    input  [87-1 : 0]    sink_data,
     input                       sink_startofpacket,
     input                       sink_endofpacket,
     output                      sink_ready,
@@ -104,8 +104,8 @@ module de2_70_addr_router
     // Command Source (Output)
     // -------------------
     output                          src_valid,
-    output reg [81-1    : 0] src_data,
-    output reg [2-1 : 0] src_channel,
+    output reg [87-1    : 0] src_data,
+    output reg [6-1 : 0] src_channel,
     output                          src_startofpacket,
     output                          src_endofpacket,
     input                           src_ready
@@ -116,12 +116,12 @@ module de2_70_addr_router
     // -------------------------------------------------------
     localparam PKT_ADDR_H = 49;
     localparam PKT_ADDR_L = 18;
-    localparam PKT_DEST_ID_H = 70;
-    localparam PKT_DEST_ID_L = 70;
-    localparam PKT_PROTECTION_H = 74;
-    localparam PKT_PROTECTION_L = 72;
-    localparam ST_DATA_W = 81;
-    localparam ST_CHANNEL_W = 2;
+    localparam PKT_DEST_ID_H = 76;
+    localparam PKT_DEST_ID_L = 74;
+    localparam PKT_PROTECTION_H = 80;
+    localparam PKT_PROTECTION_L = 78;
+    localparam ST_DATA_W = 87;
+    localparam ST_CHANNEL_W = 6;
     localparam DECODER_TYPE = 0;
 
     localparam PKT_TRANS_WRITE = 52;
@@ -161,7 +161,7 @@ module de2_70_addr_router
     assign src_endofpacket   = sink_endofpacket;
 
     wire [PKT_DEST_ID_W-1:0] default_destid;
-    wire [2-1 : 0] default_src_channel;
+    wire [6-1 : 0] default_src_channel;
 
 
 
@@ -186,8 +186,8 @@ module de2_70_addr_router
            
          
           // ( 0 .. 200000 )
-          src_channel = 2'b1;
-          src_data[PKT_DEST_ID_H:PKT_DEST_ID_L] = 0;
+          src_channel = 6'b1;
+          src_data[PKT_DEST_ID_H:PKT_DEST_ID_L] = 1;
 	     
         
 
