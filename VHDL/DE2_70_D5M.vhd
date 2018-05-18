@@ -72,7 +72,7 @@ ARCHITECTURE Structure OF DE2_70_D5M IS
             videoin_FRAME_VALID     : in    std_logic                     := 'X';             -- FRAME_VALID
             videoin_PIXEL_DATA      : in    std_logic_vector(11 downto 0) := (others => 'X'); -- PIXEL_DATA
 				
-				--videoin_pixel_clk_reset : in    std_logic                     := '1'; 
+				--videoin_pixel_clk_reset : in    std_logic                     := 'X'; 
 				
             sram_DQ                 : inout std_logic_vector(31 downto 0) := (others => 'X'); -- DQ
             sram_DPA                : inout std_logic_vector(3 downto 0)  := (others => 'X'); -- DPA

@@ -187,11 +187,15 @@ module de2_70_id_router_004
 
 
         if (destid == 2 ) begin
-            src_channel = 6'b01;
+            src_channel = 6'b001;
         end
 
         if (destid == 3 ) begin
-            src_channel = 6'b10;
+            src_channel = 6'b010;
+        end
+
+        if (destid == 1 ) begin
+            src_channel = 6'b100;
         end
 
 

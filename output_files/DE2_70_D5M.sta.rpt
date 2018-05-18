@@ -1,5 +1,5 @@
 TimeQuest Timing Analyzer report for DE2_70_D5M
-Thu May 17 11:16:43 2018
+Fri May 18 09:44:39 2018
 Quartus II 64-Bit Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition
 
 
@@ -93,8 +93,8 @@ applicable agreement for further details.
 +--------------------------------------------------------------+--------+--------------------------+
 ; SDC File Path                                                ; Status ; Read at                  ;
 +--------------------------------------------------------------+--------+--------------------------+
-; QSYS/de2_70/synthesis/submodules/altera_reset_controller.sdc ; OK     ; Thu May 17 11:16:43 2018 ;
-; QSYS/de2_70/synthesis/submodules/de2_70_nios2_processor.sdc  ; OK     ; Thu May 17 11:16:43 2018 ;
+; QSYS/de2_70/synthesis/submodules/altera_reset_controller.sdc ; OK     ; Fri May 18 09:44:39 2018 ;
+; QSYS/de2_70/synthesis/submodules/de2_70_nios2_processor.sdc  ; OK     ; Fri May 18 09:44:39 2018 ;
 +--------------------------------------------------------------+--------+--------------------------+
 
 
@@ -321,7 +321,7 @@ No dedicated SERDES Receiver circuitry present in device or used in design
 ; Unconstrained Input Ports       ; 62    ; 62   ;
 ; Unconstrained Input Port Paths  ; 65    ; 65   ;
 ; Unconstrained Output Ports      ; 139   ; 139  ;
-; Unconstrained Output Port Paths ; 896   ; 896  ;
+; Unconstrained Output Port Paths ; 2272  ; 2272 ;
 +---------------------------------+-------+------+
 
 
@@ -331,7 +331,7 @@ No dedicated SERDES Receiver circuitry present in device or used in design
 Info: *******************************************************************
 Info: Running Quartus II 64-Bit TimeQuest Timing Analyzer
     Info: Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition
-    Info: Processing started: Thu May 17 11:16:42 2018
+    Info: Processing started: Fri May 18 09:44:38 2018
 Info: Command: quartus_sta DE2_70_D5M -c DE2_70_D5M
 Info: qsta_default_script.tcl version: #1
 Info (20030): Parallel compilation is enabled and will use 4 of the 4 processors detected
@@ -415,8 +415,8 @@ Info (332001): The selected device family is not supported by the report_metasta
 Info (332102): Design is not fully constrained for setup requirements
 Info (332102): Design is not fully constrained for hold requirements
 Info: Quartus II 64-Bit TimeQuest Timing Analyzer was successful. 0 errors, 12 warnings
-    Info: Peak virtual memory: 495 megabytes
-    Info: Processing ended: Thu May 17 11:16:43 2018
+    Info: Peak virtual memory: 506 megabytes
+    Info: Processing ended: Fri May 18 09:44:39 2018
     Info: Elapsed time: 00:00:01
     Info: Total CPU time (on all processors): 00:00:02
 

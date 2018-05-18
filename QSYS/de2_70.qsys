@@ -228,6 +228,11 @@
    }
    element Pixel_Buffer.avalon_ssram_slave
    {
+      datum _lockedAddress
+      {
+         value = "1";
+         type = "boolean";
+      }
       datum baseAddress
       {
          value = "0";
@@ -294,6 +299,11 @@
    }
    element sdram.s1
    {
+      datum _lockedAddress
+      {
+         value = "1";
+         type = "boolean";
+      }
       datum baseAddress
       {
          value = "67108864";
@@ -331,7 +341,7 @@
  <parameter name="projectName" value="" />
  <parameter name="sopcBorderPoints" value="false" />
  <parameter name="systemHash" value="1" />
- <parameter name="timeStamp" value="1526565381494" />
+ <parameter name="timeStamp" value="1526643590532" />
  <parameter name="useTestBenchNamingPattern" value="false" />
  <instanceScript></instanceScript>
  <interface name="clk" internal="clk_0.clk_in" type="clock" dir="end" />
@@ -520,8 +530,8 @@
    enabled="1"
    name="Pixel_Buffer_DMA">
   <parameter name="addr_mode" value="X-Y" />
-  <parameter name="start_address" value="0" />
-  <parameter name="back_start_address" value="0" />
+  <parameter name="start_address" value="67108864" />
+  <parameter name="back_start_address" value="67108864" />
   <parameter name="image_width" value="320" />
   <parameter name="image_height" value="240" />
   <parameter name="color_space" value="16-bit RGB" />
@@ -870,24 +880,6 @@
    start="Video_RGB_Resampler_0.avalon_rgb_source"
    end="Video_DMA.avalon_dma_sink" />
  <connection
-   kind="avalon"
-   version="13.0"
-   start="Video_DMA.avalon_dma_master"
-   end="Pixel_Buffer.avalon_ssram_slave">
-  <parameter name="arbitrationPriority" value="1" />
-  <parameter name="baseAddress" value="0x0000" />
-  <parameter name="defaultConnection" value="false" />
- </connection>
- <connection
-   kind="avalon"
-   version="13.0"
-   start="Pixel_Buffer_DMA.avalon_pixel_dma_master"
-   end="Pixel_Buffer.avalon_ssram_slave">
-  <parameter name="arbitrationPriority" value="1" />
-  <parameter name="baseAddress" value="0x0000" />
-  <parameter name="defaultConnection" value="false" />
- </connection>
- <connection
    kind="clock"
    version="13.0"
    start="Clock_Signals.sys_clk"
@@ -1215,6 +1207,42 @@
    version="13.0"
    start="Clock_Signals.sys_clk_reset"
    end="clk_0.clk_in_reset" />
+ <connection
+   kind="avalon"
+   version="13.0"
+   start="Pixel_Buffer_DMA.avalon_pixel_dma_master"
+   end="sdram.s1">
+  <parameter name="arbitrationPriority" value="1" />
+  <parameter name="baseAddress" value="0x04000000" />
+  <parameter name="defaultConnection" value="false" />
+ </connection>
+ <connection
+   kind="avalon"
+   version="13.0"
+   start="Video_DMA.avalon_dma_master"
+   end="sdram.s1">
+  <parameter name="arbitrationPriority" value="1" />
+  <parameter name="baseAddress" value="0x04000000" />
+  <parameter name="defaultConnection" value="false" />
+ </connection>
+ <connection
+   kind="avalon"
+   version="13.0"
+   start="Video_DMA.avalon_dma_master"
+   end="Pixel_Buffer.avalon_ssram_slave">
+  <parameter name="arbitrationPriority" value="1" />
+  <parameter name="baseAddress" value="0x0000" />
+  <parameter name="defaultConnection" value="false" />
+ </connection>
+ <connection
+   kind="avalon"
+   version="13.0"
+   start="Pixel_Buffer_DMA.avalon_pixel_dma_master"
+   end="Pixel_Buffer.avalon_ssram_slave">
+  <parameter name="arbitrationPriority" value="1" />
+  <parameter name="baseAddress" value="0x0000" />
+  <parameter name="defaultConnection" value="false" />
+ </connection>
  <interconnectRequirement for="$system" name="qsys_mm.clockCrossingAdapter" value="HANDSHAKE" />
  <interconnectRequirement for="$system" name="qsys_mm.maxAdditionalLatency" value="1" />
 </system>

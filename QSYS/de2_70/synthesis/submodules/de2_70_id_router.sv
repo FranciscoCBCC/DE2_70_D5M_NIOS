@@ -47,7 +47,7 @@ module de2_70_id_router_default_decode
      parameter DEFAULT_CHANNEL = 0,
                DEFAULT_WR_CHANNEL = -1,
                DEFAULT_RD_CHANNEL = -1,
-               DEFAULT_DESTID = 1 
+               DEFAULT_DESTID = 3 
    )
   (output [94 - 92 : 0] default_destination_id,
    output [6-1 : 0] default_wr_channel,
@@ -186,16 +186,12 @@ module de2_70_id_router
 
 
 
-        if (destid == 1 ) begin
-            src_channel = 6'b001;
-        end
-
-        if (destid == 0 ) begin
-            src_channel = 6'b010;
+        if (destid == 3 ) begin
+            src_channel = 6'b01;
         end
 
         if (destid == 2 ) begin
-            src_channel = 6'b100;
+            src_channel = 6'b10;
         end
 
 
