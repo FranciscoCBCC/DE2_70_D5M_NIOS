@@ -62,35 +62,35 @@ C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libh
                               C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_open.o) (alt_find_file)
 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_get_fd.o)
                               C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_open.o) (alt_get_fd)
-c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
+C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_icache_flush.o)
+                              C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_icache_flush_all.o) (alt_icache_flush)
+c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-atexit.o)
                               C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_main.o) (atexit)
-c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o)
+c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-exit.o)
                               C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_main.o) (exit)
-c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-impure.o)
-                              c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o) (_global_impure_ptr)
-c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-int_errno.o)
+c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-impure.o)
+                              c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-exit.o) (_global_impure_ptr)
+c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-int_errno.o)
                               C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_close.o) (errno)
-c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcmp.o)
+c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memcmp.o)
                               C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_find_dev.o) (memcmp)
-c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcpy.o)
+c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memcpy.o)
                               C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o) (memcpy)
-c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-strlen.o)
+c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-strlen.o)
                               C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_find_dev.o) (strlen)
-c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__atexit.o)
-                              c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o) (__register_exitproc)
-c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
-                              c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o) (__call_exitprocs)
-c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-mul.o)
-                              C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_close.o) (__mulsi3)
+c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-__atexit.o)
+                              c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-atexit.o) (__register_exitproc)
+c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-__call_atexit.o)
+                              c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-exit.o) (__call_exitprocs)
 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_exit.o)
-                              c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o) (_exit)
+                              c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-exit.o) (_exit)
 
 Allocating common symbols
 Common symbol       size              file
 
 alt_irq             0x100             C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_irq_handler.o)
-errno               0x4               c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-int_errno.o)
-_atexit0            0x190             c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
+errno               0x4               c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-int_errno.o)
+_atexit0            0x190             c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-atexit.o)
 
 Memory Configuration
 
@@ -104,15 +104,15 @@ Linker script and memory map
 
 LOAD C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp//obj/HAL/src/crt0.o
 LOAD obj/default/main.o
-LOAD c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libstdc++.a
-LOAD c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libm.a
-LOAD c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a
+LOAD c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libstdc++.a
+LOAD c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libm.a
+LOAD c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2\libgcc.a
 START GROUP
-LOAD c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a
-LOAD c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a
+LOAD c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a
+LOAD c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2\libgcc.a
 LOAD C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a
 END GROUP
-LOAD c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a
+LOAD c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2\libgcc.a
                 0x00201000                __alt_mem_onchip_memory = 0x201000
                 0x04000000                __alt_mem_sdram = 0x4000000
 
@@ -176,7 +176,7 @@ LOAD c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/
                 0x040001b4                PROVIDE (__ram_exceptions_end, ABSOLUTE (.))
                 0x04000020                PROVIDE (__flash_exceptions_start, LOADADDR (.exceptions))
 
-.text           0x040001b4     0x2618
+.text           0x040001b4     0x2638
                 0x040001b4                PROVIDE (stext, ABSOLUTE (.))
  *(.interp)
  *(.hash)
@@ -221,309 +221,309 @@ LOAD c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/
  *(.init)
  *(.plt)
  *(.text .stub .text.* .gnu.linkonce.t.*)
- .text          0x040001b4       0x3c C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp//obj/HAL/src/crt0.o
+ .text          0x040001b4       0x4c C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp//obj/HAL/src/crt0.o
                 0x040001b4                _start
- .text          0x040001f0      0x124 obj/default/main.o
-                0x040001f0                main
-                0x04000248                VGA_box
- .text          0x04000314       0xec C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_load.o)
-                0x04000314                alt_load
- .text          0x04000400       0x6c C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_main.o)
-                0x04000400                alt_main
- .text          0x0400046c      0x2a8 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_sys_init.o)
-                0x0400046c                alt_irq_init
-                0x040004a0                alt_sys_init
- .text          0x04000714      0x148 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
-                0x04000714                altera_avalon_jtag_uart_read_fd
-                0x0400076c                altera_avalon_jtag_uart_write_fd
-                0x040007c4                altera_avalon_jtag_uart_close_fd
-                0x0400080c                altera_avalon_jtag_uart_ioctl_fd
- .text          0x0400085c      0x40c C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_init.o)
-                0x0400085c                altera_avalon_jtag_uart_init
-                0x04000bf4                altera_avalon_jtag_uart_close
- .text          0x04000c68       0xf4 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_ioctl.o)
-                0x04000c68                altera_avalon_jtag_uart_ioctl
- .text          0x04000d5c      0x224 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
-                0x04000d5c                altera_avalon_jtag_uart_read
- .text          0x04000f80      0x240 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
-                0x04000f80                altera_avalon_jtag_uart_write
- .text          0x040011c0      0x154 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_alarm_start.o)
-                0x040011c0                alt_alarm_start
- .text          0x04001314      0x160 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_close.o)
-                0x04001314                close
- .text          0x04001474       0x1c C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
-                0x04001474                alt_dcache_flush_all
- .text          0x04001490       0x2c C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_dev.o)
- .text          0x040014bc      0x114 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
-                0x040014bc                alt_dev_llist_insert
- .text          0x040015d0       0x64 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_do_ctors.o)
-                0x040015d0                _do_ctors
- .text          0x04001634       0x64 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_do_dtors.o)
-                0x04001634                _do_dtors
- .text          0x04001698        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_errno.o)
- .text          0x04001698       0x1c C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
-                0x04001698                alt_icache_flush_all
- .text          0x040016b4      0x1d4 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_iic.o)
-                0x040016b4                alt_ic_isr_register
-                0x04001704                alt_ic_irq_enable
-                0x040017a0                alt_ic_irq_disable
-                0x04001840                alt_ic_irq_enabled
- .text          0x04001888       0xf8 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
-                0x04001888                alt_iic_isr_register
- .text          0x04001980      0x150 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_io_redirect.o)
-                0x04001a58                alt_io_redirect
- .text          0x04001ad0        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_irq_entry.o)
- .text          0x04001ad0        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_irq_handler.o)
- .text          0x04001ad0        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_irq_vars.o)
- .text          0x04001ad0      0x2e4 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_open.o)
-                0x04001bc8                open
- .text          0x04001db4       0x78 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_release_fd.o)
-                0x04001db4                alt_release_fd
- .text          0x04001e2c      0x1a4 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_tick.o)
-                0x04001e2c                alt_alarm_stop
-                0x04001ec4                alt_tick
- .text          0x04001fd0       0x20 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
-                0x04001fd0                altera_nios2_qsys_irq_init
- .text          0x04001ff0        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_exception_entry.o)
- .text          0x04001ff0       0x94 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_find_dev.o)
-                0x04001ff0                alt_find_dev
- .text          0x04002084      0x120 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_find_file.o)
-                0x04002084                alt_find_file
- .text          0x040021a4       0xd0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_get_fd.o)
-                0x040021a4                alt_get_fd
- .text          0x04002274       0x14 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
-                0x04002274                atexit
- .text          0x04002288       0x38 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o)
-                0x04002288                exit
- .text          0x040022c0        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-impure.o)
- .text          0x040022c0        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-int_errno.o)
- .text          0x040022c0       0x74 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcmp.o)
-                0x040022c0                memcmp
- .text          0x04002334       0xa0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcpy.o)
-                0x04002334                memcpy
- .text          0x040023d4       0x74 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-strlen.o)
-                0x040023d4                strlen
- .text          0x04002448      0x134 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__atexit.o)
-                0x04002448                __register_exitproc
- .text          0x0400257c      0x1b4 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
-                0x04002580                __call_exitprocs
- .text          0x04002730       0x38 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-mul.o)
-                0x04002730                __mulsi3
- .text          0x04002768       0x60 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_exit.o)
-                0x040027a8                _exit
+ .text          0x04000200      0x108 obj/default/main.o
+                0x04000200                main
+                0x0400023c                VGA_box
+ .text          0x04000308       0xec C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_load.o)
+                0x04000308                alt_load
+ .text          0x040003f4       0x6c C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_main.o)
+                0x040003f4                alt_main
+ .text          0x04000460      0x2a8 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_sys_init.o)
+                0x04000460                alt_irq_init
+                0x04000494                alt_sys_init
+ .text          0x04000708      0x148 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+                0x04000708                altera_avalon_jtag_uart_read_fd
+                0x04000760                altera_avalon_jtag_uart_write_fd
+                0x040007b8                altera_avalon_jtag_uart_close_fd
+                0x04000800                altera_avalon_jtag_uart_ioctl_fd
+ .text          0x04000850      0x40c C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_init.o)
+                0x04000850                altera_avalon_jtag_uart_init
+                0x04000be8                altera_avalon_jtag_uart_close
+ .text          0x04000c5c       0xf4 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_ioctl.o)
+                0x04000c5c                altera_avalon_jtag_uart_ioctl
+ .text          0x04000d50      0x224 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+                0x04000d50                altera_avalon_jtag_uart_read
+ .text          0x04000f74      0x240 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+                0x04000f74                altera_avalon_jtag_uart_write
+ .text          0x040011b4      0x154 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_alarm_start.o)
+                0x040011b4                alt_alarm_start
+ .text          0x04001308      0x15c C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_close.o)
+                0x04001308                close
+ .text          0x04001464       0x44 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+                0x04001464                alt_dcache_flush_all
+ .text          0x040014a8       0x2c C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_dev.o)
+ .text          0x040014d4      0x114 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+                0x040014d4                alt_dev_llist_insert
+ .text          0x040015e8       0x64 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_do_ctors.o)
+                0x040015e8                _do_ctors
+ .text          0x0400164c       0x64 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_do_dtors.o)
+                0x0400164c                _do_dtors
+ .text          0x040016b0        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_errno.o)
+ .text          0x040016b0       0x30 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+                0x040016b0                alt_icache_flush_all
+ .text          0x040016e0      0x1d4 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_iic.o)
+                0x040016e0                alt_ic_isr_register
+                0x04001730                alt_ic_irq_enable
+                0x040017cc                alt_ic_irq_disable
+                0x0400186c                alt_ic_irq_enabled
+ .text          0x040018b4       0xf8 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+                0x040018b4                alt_iic_isr_register
+ .text          0x040019ac      0x13c C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_io_redirect.o)
+                0x04001a70                alt_io_redirect
+ .text          0x04001ae8        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ .text          0x04001ae8        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .text          0x04001ae8        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_irq_vars.o)
+ .text          0x04001ae8      0x2c4 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_open.o)
+                0x04001bc4                open
+ .text          0x04001dac       0x60 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_release_fd.o)
+                0x04001dac                alt_release_fd
+ .text          0x04001e0c      0x1a4 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_tick.o)
+                0x04001e0c                alt_alarm_stop
+                0x04001ea4                alt_tick
+ .text          0x04001fb0       0x20 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+                0x04001fb0                altera_nios2_qsys_irq_init
+ .text          0x04001fd0        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ .text          0x04001fd0       0x94 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_find_dev.o)
+                0x04001fd0                alt_find_dev
+ .text          0x04002064      0x120 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_find_file.o)
+                0x04002064                alt_find_file
+ .text          0x04002184       0xb8 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_get_fd.o)
+                0x04002184                alt_get_fd
+ .text          0x0400223c       0x90 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_icache_flush.o)
+                0x0400223c                alt_icache_flush
+ .text          0x040022cc       0x14 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-atexit.o)
+                0x040022cc                atexit
+ .text          0x040022e0       0x38 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-exit.o)
+                0x040022e0                exit
+ .text          0x04002318        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-impure.o)
+ .text          0x04002318        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-int_errno.o)
+ .text          0x04002318       0x74 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memcmp.o)
+                0x04002318                memcmp
+ .text          0x0400238c       0xa0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memcpy.o)
+                0x0400238c                memcpy
+ .text          0x0400242c       0x74 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-strlen.o)
+                0x0400242c                strlen
+ .text          0x040024a0      0x134 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-__atexit.o)
+                0x040024a0                __register_exitproc
+ .text          0x040025d4      0x1b4 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-__call_atexit.o)
+                0x040025d8                __call_exitprocs
+ .text          0x04002788       0x60 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_exit.o)
+                0x040027c8                _exit
  *(.gnu.warning.*)
  *(.fini)
-                0x040027c8                PROVIDE (__etext, ABSOLUTE (.))
-                0x040027c8                PROVIDE (_etext, ABSOLUTE (.))
-                0x040027c8                PROVIDE (etext, ABSOLUTE (.))
+                0x040027e8                PROVIDE (__etext, ABSOLUTE (.))
+                0x040027e8                PROVIDE (_etext, ABSOLUTE (.))
+                0x040027e8                PROVIDE (etext, ABSOLUTE (.))
  *(.eh_frame_hdr)
-                0x040027c8                . = ALIGN (0x4)
-                0x040027c8                PROVIDE (__preinit_array_start, ABSOLUTE (.))
+                0x040027e8                . = ALIGN (0x4)
+                0x040027e8                PROVIDE (__preinit_array_start, ABSOLUTE (.))
  *(.preinit_array)
-                0x040027c8                PROVIDE (__preinit_array_end, ABSOLUTE (.))
-                0x040027c8                PROVIDE (__init_array_start, ABSOLUTE (.))
+                0x040027e8                PROVIDE (__preinit_array_end, ABSOLUTE (.))
+                0x040027e8                PROVIDE (__init_array_start, ABSOLUTE (.))
  *(.init_array)
-                0x040027c8                PROVIDE (__init_array_end, ABSOLUTE (.))
-                0x040027c8                PROVIDE (__fini_array_start, ABSOLUTE (.))
+                0x040027e8                PROVIDE (__init_array_end, ABSOLUTE (.))
+                0x040027e8                PROVIDE (__fini_array_start, ABSOLUTE (.))
  *(.fini_array)
-                0x040027c8                PROVIDE (__fini_array_end, ABSOLUTE (.))
+                0x040027e8                PROVIDE (__fini_array_end, ABSOLUTE (.))
  *(.eh_frame)
  *(.gcc_except_table)
  *(.dynamic)
-                0x040027c8                PROVIDE (__CTOR_LIST__, ABSOLUTE (.))
+                0x040027e8                PROVIDE (__CTOR_LIST__, ABSOLUTE (.))
  *(.ctors)
  *(SORT(.ctors.*))
- .ctors.65535   0x040027c8        0x4 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
-                0x040027cc                PROVIDE (__CTOR_END__, ABSOLUTE (.))
-                0x040027cc                PROVIDE (__DTOR_LIST__, ABSOLUTE (.))
+ .ctors.65535   0x040027e8        0x4 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-__call_atexit.o)
+                0x040027ec                PROVIDE (__CTOR_END__, ABSOLUTE (.))
+                0x040027ec                PROVIDE (__DTOR_LIST__, ABSOLUTE (.))
  *(.dtors)
  *(SORT(.dtors.*))
-                0x040027cc                PROVIDE (__DTOR_END__, ABSOLUTE (.))
+                0x040027ec                PROVIDE (__DTOR_END__, ABSOLUTE (.))
  *(.jcr)
-                0x040027cc                . = ALIGN (0x4)
+                0x040027ec                . = ALIGN (0x4)
 
-.rodata         0x040027cc       0x48
-                0x040027cc                PROVIDE (__ram_rodata_start, ABSOLUTE (.))
-                0x040027cc                . = ALIGN (0x4)
+.rodata         0x040027ec       0x48
+                0x040027ec                PROVIDE (__ram_rodata_start, ABSOLUTE (.))
+                0x040027ec                . = ALIGN (0x4)
  *(.rodata .rodata.* .gnu.linkonce.r.*)
- .rodata        0x040027cc       0x10 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_main.o)
- .rodata        0x040027dc       0x28 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_sys_init.o)
- .rodata        0x04002804        0xc C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_dev.o)
+ .rodata        0x040027ec       0x10 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_main.o)
+ .rodata        0x040027fc       0x28 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .rodata        0x04002824        0xc C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_dev.o)
  .rodata.str1.4
-                0x04002810        0x4 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-impure.o)
+                0x04002830        0x4 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-impure.o)
  *(.rodata1)
-                0x04002814                . = ALIGN (0x4)
-                0x04002814                PROVIDE (__ram_rodata_end, ABSOLUTE (.))
-                0x040027cc                PROVIDE (__flash_rodata_start, LOADADDR (.rodata))
+                0x04002834                . = ALIGN (0x4)
+                0x04002834                PROVIDE (__ram_rodata_end, ABSOLUTE (.))
+                0x040027ec                PROVIDE (__flash_rodata_start, LOADADDR (.rodata))
 
-.rwdata         0x04002814     0x1688 load address 0x04003e9c
-                0x04002814                PROVIDE (__ram_rwdata_start, ABSOLUTE (.))
-                0x04002814                . = ALIGN (0x4)
+.rwdata         0x04002834     0x1688 load address 0x04003ebc
+                0x04002834                PROVIDE (__ram_rwdata_start, ABSOLUTE (.))
+                0x04002834                . = ALIGN (0x4)
  *(.got.plt)
  *(.got)
  *(.data1)
  *(.data .data.* .gnu.linkonce.d.*)
- .data          0x04002814        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp//obj/HAL/src/crt0.o
- .data          0x04002814        0x0 obj/default/main.o
- .data          0x04002814        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_load.o)
- .data          0x04002814        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_main.o)
- .data          0x04002814     0x10b4 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_sys_init.o)
- .data          0x040038c8        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
- .data          0x040038c8        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_init.o)
- .data          0x040038c8        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_ioctl.o)
- .data          0x040038c8        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
- .data          0x040038c8        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
- .data          0x040038c8        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_alarm_start.o)
- .data          0x040038c8        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_close.o)
- .data          0x040038c8        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
- .data          0x040038c8      0x1a8 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_dev.o)
-                0x040038c8                alt_dev_null
-                0x040038f0                alt_fd_list
- .data          0x04003a70        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
- .data          0x04003a70        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_do_ctors.o)
- .data          0x04003a70        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_do_dtors.o)
- .data          0x04003a70        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_errno.o)
- .data          0x04003a70        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
- .data          0x04003a70        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_iic.o)
- .data          0x04003a70        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
- .data          0x04003a70        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_io_redirect.o)
- .data          0x04003a70        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_irq_entry.o)
- .data          0x04003a70        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_irq_handler.o)
- .data          0x04003a70        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_irq_vars.o)
- .data          0x04003a70        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_open.o)
- .data          0x04003a70        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_release_fd.o)
- .data          0x04003a70        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_tick.o)
- .data          0x04003a70        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
- .data          0x04003a70        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_exception_entry.o)
- .data          0x04003a70        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_find_dev.o)
- .data          0x04003a70        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_find_file.o)
- .data          0x04003a70        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_get_fd.o)
- .data          0x04003a70        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
- .data          0x04003a70        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o)
- .data          0x04003a70      0x400 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-impure.o)
- .data          0x04003e70        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-int_errno.o)
- .data          0x04003e70        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcmp.o)
- .data          0x04003e70        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcpy.o)
- .data          0x04003e70        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-strlen.o)
- .data          0x04003e70        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__atexit.o)
- .data          0x04003e70        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
- .data          0x04003e70        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-mul.o)
- .data          0x04003e70        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_exit.o)
-                0x0400be70                _gp = ABSOLUTE ((. + 0x8000))
-                0x0400be70                PROVIDE (gp, _gp)
+ .data          0x04002834        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp//obj/HAL/src/crt0.o
+ .data          0x04002834        0x0 obj/default/main.o
+ .data          0x04002834        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_load.o)
+ .data          0x04002834        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_main.o)
+ .data          0x04002834     0x10b4 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .data          0x040038e8        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .data          0x040038e8        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_init.o)
+ .data          0x040038e8        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_ioctl.o)
+ .data          0x040038e8        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .data          0x040038e8        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .data          0x040038e8        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_alarm_start.o)
+ .data          0x040038e8        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_close.o)
+ .data          0x040038e8        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .data          0x040038e8      0x1a8 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_dev.o)
+                0x040038e8                alt_dev_null
+                0x04003910                alt_fd_list
+ .data          0x04003a90        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .data          0x04003a90        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_do_ctors.o)
+ .data          0x04003a90        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_do_dtors.o)
+ .data          0x04003a90        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_errno.o)
+ .data          0x04003a90        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .data          0x04003a90        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_iic.o)
+ .data          0x04003a90        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+ .data          0x04003a90        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .data          0x04003a90        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ .data          0x04003a90        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .data          0x04003a90        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_irq_vars.o)
+ .data          0x04003a90        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_open.o)
+ .data          0x04003a90        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .data          0x04003a90        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_tick.o)
+ .data          0x04003a90        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .data          0x04003a90        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ .data          0x04003a90        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .data          0x04003a90        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_find_file.o)
+ .data          0x04003a90        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .data          0x04003a90        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_icache_flush.o)
+ .data          0x04003a90        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-atexit.o)
+ .data          0x04003a90        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-exit.o)
+ .data          0x04003a90      0x400 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-impure.o)
+ .data          0x04003e90        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-int_errno.o)
+ .data          0x04003e90        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memcmp.o)
+ .data          0x04003e90        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memcpy.o)
+ .data          0x04003e90        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-strlen.o)
+ .data          0x04003e90        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-__atexit.o)
+ .data          0x04003e90        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-__call_atexit.o)
+ .data          0x04003e90        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_exit.o)
+                0x0400be90                _gp = ABSOLUTE ((. + 0x8000))
+                0x0400be90                PROVIDE (gp, _gp)
  *(.rwdata .rwdata.*)
  *(.sdata .sdata.* .gnu.linkonce.s.*)
- .sdata         0x04003e70       0x14 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_dev.o)
-                0x04003e70                alt_fs_list
-                0x04003e78                alt_dev_list
-                0x04003e80                alt_max_fd
- .sdata         0x04003e84        0x4 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_errno.o)
-                0x04003e84                alt_errno
- .sdata         0x04003e88        0x4 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_irq_vars.o)
-                0x04003e88                alt_priority_mask
- .sdata         0x04003e8c        0x8 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_tick.o)
-                0x04003e8c                alt_alarm_list
- .sdata         0x04003e94        0x8 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-impure.o)
-                0x04003e94                _impure_ptr
-                0x04003e98                _global_impure_ptr
+ .sdata         0x04003e90       0x14 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_dev.o)
+                0x04003e90                alt_fs_list
+                0x04003e98                alt_dev_list
+                0x04003ea0                alt_max_fd
+ .sdata         0x04003ea4        0x4 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_errno.o)
+                0x04003ea4                alt_errno
+ .sdata         0x04003ea8        0x4 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_irq_vars.o)
+                0x04003ea8                alt_priority_mask
+ .sdata         0x04003eac        0x8 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_tick.o)
+                0x04003eac                alt_alarm_list
+ .sdata         0x04003eb4        0x8 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-impure.o)
+                0x04003eb4                _impure_ptr
+                0x04003eb8                _global_impure_ptr
  *(.sdata2 .sdata2.* .gnu.linkonce.s2.*)
-                0x04003e9c                . = ALIGN (0x4)
-                0x04003e9c                _edata = ABSOLUTE (.)
-                0x04003e9c                PROVIDE (edata, ABSOLUTE (.))
-                0x04003e9c                PROVIDE (__ram_rwdata_end, ABSOLUTE (.))
-                0x04003e9c                PROVIDE (__flash_rwdata_start, LOADADDR (.rwdata))
+                0x04003ebc                . = ALIGN (0x4)
+                0x04003ebc                _edata = ABSOLUTE (.)
+                0x04003ebc                PROVIDE (edata, ABSOLUTE (.))
+                0x04003ebc                PROVIDE (__ram_rwdata_end, ABSOLUTE (.))
+                0x04003ebc                PROVIDE (__flash_rwdata_start, LOADADDR (.rwdata))
 
-.bss            0x04005524      0x2ac
-                0x04005524                __bss_start = ABSOLUTE (.)
-                0x04005524                PROVIDE (__sbss_start, ABSOLUTE (.))
-                0x04005524                PROVIDE (___sbss_start, ABSOLUTE (.))
+.bss            0x04005544      0x2ac
+                0x04005544                __bss_start = ABSOLUTE (.)
+                0x04005544                PROVIDE (__sbss_start, ABSOLUTE (.))
+                0x04005544                PROVIDE (___sbss_start, ABSOLUTE (.))
  *(.dynsbss)
  *(.sbss .sbss.* .gnu.linkonce.sb.*)
- .sbss          0x04005524        0xc C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_main.o)
-                0x04005524                alt_argc
-                0x04005528                alt_argv
-                0x0400552c                alt_envp
- .sbss          0x04005530        0x4 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_irq_vars.o)
-                0x04005530                alt_irq_active
- .sbss          0x04005534        0x8 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_tick.o)
-                0x04005534                _alt_tick_rate
-                0x04005538                _alt_nticks
- .sbss          0x0400553c        0x4 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-int_errno.o)
-                0x0400553c                errno
+ .sbss          0x04005544        0xc C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_main.o)
+                0x04005544                alt_argc
+                0x04005548                alt_argv
+                0x0400554c                alt_envp
+ .sbss          0x04005550        0x4 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_irq_vars.o)
+                0x04005550                alt_irq_active
+ .sbss          0x04005554        0x8 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_tick.o)
+                0x04005554                _alt_tick_rate
+                0x04005558                _alt_nticks
+ .sbss          0x0400555c        0x4 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-int_errno.o)
+                0x0400555c                errno
  *(.sbss2 .sbss2.* .gnu.linkonce.sb2.*)
  *(.scommon)
-                0x04005540                PROVIDE (__sbss_end, ABSOLUTE (.))
-                0x04005540                PROVIDE (___sbss_end, ABSOLUTE (.))
+                0x04005560                PROVIDE (__sbss_end, ABSOLUTE (.))
+                0x04005560                PROVIDE (___sbss_end, ABSOLUTE (.))
  *(.dynbss)
  *(.bss .bss.* .gnu.linkonce.b.*)
- .bss           0x04005540        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp//obj/HAL/src/crt0.o
- .bss           0x04005540        0x0 obj/default/main.o
- .bss           0x04005540        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_load.o)
- .bss           0x04005540        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_main.o)
- .bss           0x04005540        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_sys_init.o)
- .bss           0x04005540        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
- .bss           0x04005540        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_init.o)
- .bss           0x04005540        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_ioctl.o)
- .bss           0x04005540        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
- .bss           0x04005540        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
- .bss           0x04005540        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_alarm_start.o)
- .bss           0x04005540        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_close.o)
- .bss           0x04005540        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
- .bss           0x04005540        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_dev.o)
- .bss           0x04005540        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
- .bss           0x04005540        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_do_ctors.o)
- .bss           0x04005540        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_do_dtors.o)
- .bss           0x04005540        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_errno.o)
- .bss           0x04005540        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
- .bss           0x04005540        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_iic.o)
- .bss           0x04005540        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
- .bss           0x04005540        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_io_redirect.o)
- .bss           0x04005540        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_irq_entry.o)
- .bss           0x04005540        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_irq_handler.o)
- .bss           0x04005540        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_irq_vars.o)
- .bss           0x04005540        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_open.o)
- .bss           0x04005540        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_release_fd.o)
- .bss           0x04005540        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_tick.o)
- .bss           0x04005540        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
- .bss           0x04005540        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_exception_entry.o)
- .bss           0x04005540        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_find_dev.o)
- .bss           0x04005540        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_find_file.o)
- .bss           0x04005540        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_get_fd.o)
- .bss           0x04005540        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
- .bss           0x04005540        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o)
- .bss           0x04005540        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-impure.o)
- .bss           0x04005540        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-int_errno.o)
- .bss           0x04005540        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcmp.o)
- .bss           0x04005540        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcpy.o)
- .bss           0x04005540        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-strlen.o)
- .bss           0x04005540        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__atexit.o)
- .bss           0x04005540        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
- .bss           0x04005540        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-mul.o)
- .bss           0x04005540        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_exit.o)
+ .bss           0x04005560        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp//obj/HAL/src/crt0.o
+ .bss           0x04005560        0x0 obj/default/main.o
+ .bss           0x04005560        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_load.o)
+ .bss           0x04005560        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_main.o)
+ .bss           0x04005560        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .bss           0x04005560        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .bss           0x04005560        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_init.o)
+ .bss           0x04005560        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_ioctl.o)
+ .bss           0x04005560        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .bss           0x04005560        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .bss           0x04005560        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_alarm_start.o)
+ .bss           0x04005560        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_close.o)
+ .bss           0x04005560        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .bss           0x04005560        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_dev.o)
+ .bss           0x04005560        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .bss           0x04005560        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_do_ctors.o)
+ .bss           0x04005560        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_do_dtors.o)
+ .bss           0x04005560        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_errno.o)
+ .bss           0x04005560        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .bss           0x04005560        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_iic.o)
+ .bss           0x04005560        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+ .bss           0x04005560        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .bss           0x04005560        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ .bss           0x04005560        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .bss           0x04005560        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_irq_vars.o)
+ .bss           0x04005560        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_open.o)
+ .bss           0x04005560        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .bss           0x04005560        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_tick.o)
+ .bss           0x04005560        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .bss           0x04005560        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ .bss           0x04005560        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .bss           0x04005560        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_find_file.o)
+ .bss           0x04005560        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .bss           0x04005560        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_icache_flush.o)
+ .bss           0x04005560        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-atexit.o)
+ .bss           0x04005560        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-exit.o)
+ .bss           0x04005560        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-impure.o)
+ .bss           0x04005560        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-int_errno.o)
+ .bss           0x04005560        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memcmp.o)
+ .bss           0x04005560        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memcpy.o)
+ .bss           0x04005560        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-strlen.o)
+ .bss           0x04005560        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-__atexit.o)
+ .bss           0x04005560        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-__call_atexit.o)
+ .bss           0x04005560        0x0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_exit.o)
  *(COMMON)
- COMMON         0x04005540      0x100 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_irq_handler.o)
-                0x04005540                alt_irq
- COMMON         0x04005640      0x190 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
-                0x04005640                _atexit0
-                0x040057d0                . = ALIGN (0x4)
-                0x040057d0                __bss_end = ABSOLUTE (.)
+ COMMON         0x04005560      0x100 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_irq_handler.o)
+                0x04005560                alt_irq
+ COMMON         0x04005660      0x190 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-atexit.o)
+                0x04005660                _atexit0
+                0x040057f0                . = ALIGN (0x4)
+                0x040057f0                __bss_end = ABSOLUTE (.)
 
-.onchip_memory  0x00201000        0x0 load address 0x040057d0
+.onchip_memory  0x00201000        0x0 load address 0x040057f0
                 0x00201000                PROVIDE (_alt_partition_onchip_memory_start, ABSOLUTE (.))
  *(.onchip_memory. onchip_memory.*)
                 0x00201000                . = ALIGN (0x4)
                 0x00201000                PROVIDE (_alt_partition_onchip_memory_end, ABSOLUTE (.))
-                0x040057d0                PROVIDE (_alt_partition_onchip_memory_load_addr, LOADADDR (.onchip_memory))
+                0x040057f0                PROVIDE (_alt_partition_onchip_memory_load_addr, LOADADDR (.onchip_memory))
 
-.sdram          0x040057d0        0x0
-                0x040057d0                PROVIDE (_alt_partition_sdram_start, ABSOLUTE (.))
+.sdram          0x040057f0        0x0
+                0x040057f0                PROVIDE (_alt_partition_sdram_start, ABSOLUTE (.))
  *(.sdram. sdram.*)
-                0x040057d0                . = ALIGN (0x4)
-                0x040057d0                PROVIDE (_alt_partition_sdram_end, ABSOLUTE (.))
-                0x040057d0                _end = ABSOLUTE (.)
-                0x040057d0                end = ABSOLUTE (.)
-                0x040057d0                __alt_stack_base = ABSOLUTE (.)
-                0x040057d0                PROVIDE (_alt_partition_sdram_load_addr, LOADADDR (.sdram))
+                0x040057f0                . = ALIGN (0x4)
+                0x040057f0                PROVIDE (_alt_partition_sdram_end, ABSOLUTE (.))
+                0x040057f0                _end = ABSOLUTE (.)
+                0x040057f0                end = ABSOLUTE (.)
+                0x040057f0                __alt_stack_base = ABSOLUTE (.)
+                0x040057f0                PROVIDE (_alt_partition_sdram_load_addr, LOADADDR (.sdram))
 
 .stab
  *(.stab)
@@ -576,16 +576,16 @@ LOAD c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/
  .comment       0x00000000       0x27 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_find_dev.o)
  .comment       0x00000000       0x27 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_find_file.o)
  .comment       0x00000000       0x27 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_get_fd.o)
- .comment       0x00000000       0x27 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
- .comment       0x00000000       0x27 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o)
- .comment       0x00000000       0x27 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-impure.o)
- .comment       0x00000000       0x27 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-int_errno.o)
- .comment       0x00000000       0x27 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcmp.o)
- .comment       0x00000000       0x27 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcpy.o)
- .comment       0x00000000       0x27 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-strlen.o)
- .comment       0x00000000       0x27 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__atexit.o)
- .comment       0x00000000       0x27 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
- .comment       0x00000000       0x27 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .comment       0x00000000       0x27 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_icache_flush.o)
+ .comment       0x00000000       0x27 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-atexit.o)
+ .comment       0x00000000       0x27 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-exit.o)
+ .comment       0x00000000       0x27 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-impure.o)
+ .comment       0x00000000       0x27 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-int_errno.o)
+ .comment       0x00000000       0x27 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memcmp.o)
+ .comment       0x00000000       0x27 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memcpy.o)
+ .comment       0x00000000       0x27 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-strlen.o)
+ .comment       0x00000000       0x27 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-__atexit.o)
+ .comment       0x00000000       0x27 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-__call_atexit.o)
  .comment       0x00000000       0x27 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_exit.o)
 
 .debug
@@ -665,26 +665,26 @@ LOAD c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/
  .debug_aranges
                 0x000003f8       0x20 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_get_fd.o)
  .debug_aranges
-                0x00000418       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
+                0x00000418       0x20 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_icache_flush.o)
  .debug_aranges
-                0x00000438       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o)
+                0x00000438       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-atexit.o)
  .debug_aranges
-                0x00000458       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcmp.o)
+                0x00000458       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-exit.o)
  .debug_aranges
-                0x00000478       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcpy.o)
+                0x00000478       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memcmp.o)
  .debug_aranges
-                0x00000498       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-strlen.o)
+                0x00000498       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memcpy.o)
  .debug_aranges
-                0x000004b8       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__atexit.o)
+                0x000004b8       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-strlen.o)
  .debug_aranges
-                0x000004d8       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
+                0x000004d8       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-__atexit.o)
  .debug_aranges
-                0x000004f8       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-mul.o)
+                0x000004f8       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-__call_atexit.o)
  .debug_aranges
                 0x00000518       0x20 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_exit.o)
 
 .debug_pubnames
-                0x00000000      0x7c5
+                0x00000000      0x7cd
  *(.debug_pubnames)
  .debug_pubnames
                 0x00000000       0x27 obj/default/main.o
@@ -747,76 +747,76 @@ LOAD c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/
  .debug_pubnames
                 0x00000627       0x21 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_get_fd.o)
  .debug_pubnames
-                0x00000648       0x2a c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
+                0x00000648       0x27 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_icache_flush.o)
  .debug_pubnames
-                0x00000672       0x1b c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o)
+                0x0000066f       0x2a c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-atexit.o)
  .debug_pubnames
-                0x0000068d       0x39 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-impure.o)
+                0x00000699       0x1b c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-exit.o)
  .debug_pubnames
-                0x000006c6       0x1c c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-int_errno.o)
+                0x000006b4       0x39 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-impure.o)
  .debug_pubnames
-                0x000006e2       0x1d c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcmp.o)
+                0x000006ed       0x1c c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-int_errno.o)
  .debug_pubnames
-                0x000006ff       0x1d c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcpy.o)
+                0x00000709       0x1d c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memcmp.o)
  .debug_pubnames
-                0x0000071c       0x1d c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-strlen.o)
+                0x00000726       0x1d c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memcpy.o)
  .debug_pubnames
-                0x00000739       0x2a c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__atexit.o)
+                0x00000743       0x1d c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-strlen.o)
  .debug_pubnames
-                0x00000763       0x27 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
+                0x00000760       0x2a c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-__atexit.o)
  .debug_pubnames
-                0x0000078a       0x1f c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-mul.o)
+                0x0000078a       0x27 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-__call_atexit.o)
  .debug_pubnames
-                0x000007a9       0x1c C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_exit.o)
+                0x000007b1       0x1c C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_exit.o)
 
-.debug_info     0x00000000     0x9f83
+.debug_info     0x00000000     0xa041
  *(.debug_info .gnu.linkonce.wi.*)
  .debug_info    0x00000000       0x7c C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp//obj/HAL/src/crt0.o
- .debug_info    0x0000007c      0x168 obj/default/main.o
- .debug_info    0x000001e4      0x28e C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_load.o)
- .debug_info    0x00000472      0x226 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_main.o)
- .debug_info    0x00000698      0x863 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_sys_init.o)
- .debug_info    0x00000efb      0x7da C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
- .debug_info    0x000016d5      0x602 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_init.o)
- .debug_info    0x00001cd7      0x444 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_ioctl.o)
- .debug_info    0x0000211b      0x547 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
- .debug_info    0x00002662      0x53f C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
- .debug_info    0x00002ba1      0x443 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_alarm_start.o)
- .debug_info    0x00002fe4      0x468 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_close.o)
- .debug_info    0x0000344c      0x15d C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
- .debug_info    0x000035a9      0x680 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_dev.o)
- .debug_info    0x00003c29      0x2b8 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
- .debug_info    0x00003ee1      0x110 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_do_ctors.o)
- .debug_info    0x00003ff1      0x10f C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_do_dtors.o)
- .debug_info    0x00004100      0x165 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_errno.o)
- .debug_info    0x00004265      0x15d C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
- .debug_info    0x000043c2      0x494 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_iic.o)
- .debug_info    0x00004856      0x315 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
- .debug_info    0x00004b6b      0x696 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_io_redirect.o)
- .debug_info    0x00005201       0x85 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_irq_entry.o)
- .debug_info    0x00005286      0x276 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_irq_handler.o)
- .debug_info    0x000054fc      0x168 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_irq_vars.o)
- .debug_info    0x00005664      0x526 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_open.o)
- .debug_info    0x00005b8a      0x3f3 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_release_fd.o)
- .debug_info    0x00005f7d      0x3ff C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_tick.o)
- .debug_info    0x0000637c      0x164 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
- .debug_info    0x000064e0       0x8b C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_exception_entry.o)
- .debug_info    0x0000656b      0x419 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_find_dev.o)
- .debug_info    0x00006984      0x420 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_find_file.o)
- .debug_info    0x00006da4      0x461 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_get_fd.o)
- .debug_info    0x00007205      0x181 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
- .debug_info    0x00007386      0x93f c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o)
- .debug_info    0x00007cc5      0x93d c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-impure.o)
- .debug_info    0x00008602       0x8c c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-int_errno.o)
- .debug_info    0x0000868e      0x115 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcmp.o)
- .debug_info    0x000087a3      0x106 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcpy.o)
- .debug_info    0x000088a9       0xdb c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-strlen.o)
- .debug_info    0x00008984      0x99c c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__atexit.o)
- .debug_info    0x00009320      0x9e2 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
- .debug_info    0x00009d02       0xf3 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-mul.o)
- .debug_info    0x00009df5      0x18e C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_exit.o)
+ .debug_info    0x0000007c      0x161 obj/default/main.o
+ .debug_info    0x000001dd      0x28e C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_load.o)
+ .debug_info    0x0000046b      0x226 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_info    0x00000691      0x863 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_info    0x00000ef4      0x7da C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .debug_info    0x000016ce      0x602 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_init.o)
+ .debug_info    0x00001cd0      0x444 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_ioctl.o)
+ .debug_info    0x00002114      0x547 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_info    0x0000265b      0x53f C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_info    0x00002b9a      0x443 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_alarm_start.o)
+ .debug_info    0x00002fdd      0x468 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_close.o)
+ .debug_info    0x00003445      0x170 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_info    0x000035b5      0x680 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_dev.o)
+ .debug_info    0x00003c35      0x2b8 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_info    0x00003eed      0x110 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_do_ctors.o)
+ .debug_info    0x00003ffd      0x10f C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_do_dtors.o)
+ .debug_info    0x0000410c      0x165 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_errno.o)
+ .debug_info    0x00004271      0x15d C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_info    0x000043ce      0x494 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_iic.o)
+ .debug_info    0x00004862      0x315 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+ .debug_info    0x00004b77      0x696 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .debug_info    0x0000520d       0x85 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ .debug_info    0x00005292      0x276 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .debug_info    0x00005508      0x168 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_irq_vars.o)
+ .debug_info    0x00005670      0x526 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_open.o)
+ .debug_info    0x00005b96      0x3f3 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .debug_info    0x00005f89      0x3ff C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_tick.o)
+ .debug_info    0x00006388      0x164 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .debug_info    0x000064ec       0x8b C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ .debug_info    0x00006577      0x419 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_info    0x00006990      0x420 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_find_file.o)
+ .debug_info    0x00006db0      0x461 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .debug_info    0x00007211      0x1a5 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_icache_flush.o)
+ .debug_info    0x000073b6      0x181 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-atexit.o)
+ .debug_info    0x00007537      0x93f c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-exit.o)
+ .debug_info    0x00007e76      0x93d c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-impure.o)
+ .debug_info    0x000087b3       0x8c c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-int_errno.o)
+ .debug_info    0x0000883f      0x115 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memcmp.o)
+ .debug_info    0x00008954      0x106 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memcpy.o)
+ .debug_info    0x00008a5a       0xdb c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-strlen.o)
+ .debug_info    0x00008b35      0x99c c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-__atexit.o)
+ .debug_info    0x000094d1      0x9e2 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-__call_atexit.o)
+ .debug_info    0x00009eb3      0x18e C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_exit.o)
 
-.debug_abbrev   0x00000000     0x245e
+.debug_abbrev   0x00000000     0x2475
  *(.debug_abbrev)
  .debug_abbrev  0x00000000       0x12 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp//obj/HAL/src/crt0.o
  .debug_abbrev  0x00000012       0x7b obj/default/main.o
@@ -830,87 +830,87 @@ LOAD c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/
  .debug_abbrev  0x00000812      0x18d C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
  .debug_abbrev  0x0000099f      0x172 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_alarm_start.o)
  .debug_abbrev  0x00000b11       0xfb C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_close.o)
- .debug_abbrev  0x00000c0c       0x3f C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
- .debug_abbrev  0x00000c4b       0xc7 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_dev.o)
- .debug_abbrev  0x00000d12       0xf6 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
- .debug_abbrev  0x00000e08       0x76 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_do_ctors.o)
- .debug_abbrev  0x00000e7e       0x76 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_do_dtors.o)
- .debug_abbrev  0x00000ef4       0x5e C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_errno.o)
- .debug_abbrev  0x00000f52       0x3f C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
- .debug_abbrev  0x00000f91      0x134 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_iic.o)
- .debug_abbrev  0x000010c5      0x14e C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
- .debug_abbrev  0x00001213       0xf0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_io_redirect.o)
- .debug_abbrev  0x00001303       0x12 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_irq_entry.o)
- .debug_abbrev  0x00001315      0x10c C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_irq_handler.o)
- .debug_abbrev  0x00001421       0x44 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_irq_vars.o)
- .debug_abbrev  0x00001465      0x112 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_open.o)
- .debug_abbrev  0x00001577       0xc1 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_release_fd.o)
- .debug_abbrev  0x00001638      0x150 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_tick.o)
- .debug_abbrev  0x00001788       0x3f C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
- .debug_abbrev  0x000017c7       0x12 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_exception_entry.o)
- .debug_abbrev  0x000017d9       0xcf C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_find_dev.o)
- .debug_abbrev  0x000018a8       0xcf C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_find_file.o)
- .debug_abbrev  0x00001977       0xfb C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_get_fd.o)
- .debug_abbrev  0x00001a72       0xb7 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
- .debug_abbrev  0x00001b29      0x16e c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o)
- .debug_abbrev  0x00001c97      0x157 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-impure.o)
- .debug_abbrev  0x00001dee       0x3b c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-int_errno.o)
- .debug_abbrev  0x00001e29       0x7c c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcmp.o)
- .debug_abbrev  0x00001ea5       0xb5 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcpy.o)
- .debug_abbrev  0x00001f5a       0x8b c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-strlen.o)
- .debug_abbrev  0x00001fe5      0x1ae c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__atexit.o)
- .debug_abbrev  0x00002193      0x1de c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
- .debug_abbrev  0x00002371       0x7b c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-mul.o)
- .debug_abbrev  0x000023ec       0x72 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_exit.o)
+ .debug_abbrev  0x00000c0c       0x57 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_abbrev  0x00000c63       0xc7 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_dev.o)
+ .debug_abbrev  0x00000d2a       0xf6 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_abbrev  0x00000e20       0x76 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_do_ctors.o)
+ .debug_abbrev  0x00000e96       0x76 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_do_dtors.o)
+ .debug_abbrev  0x00000f0c       0x5e C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_errno.o)
+ .debug_abbrev  0x00000f6a       0x3f C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_abbrev  0x00000fa9      0x134 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_iic.o)
+ .debug_abbrev  0x000010dd      0x14e C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+ .debug_abbrev  0x0000122b       0xf0 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .debug_abbrev  0x0000131b       0x12 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ .debug_abbrev  0x0000132d      0x10c C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .debug_abbrev  0x00001439       0x44 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_irq_vars.o)
+ .debug_abbrev  0x0000147d      0x112 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_open.o)
+ .debug_abbrev  0x0000158f       0xc1 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .debug_abbrev  0x00001650      0x150 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_tick.o)
+ .debug_abbrev  0x000017a0       0x3f C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .debug_abbrev  0x000017df       0x12 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ .debug_abbrev  0x000017f1       0xcf C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_abbrev  0x000018c0       0xcf C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_find_file.o)
+ .debug_abbrev  0x0000198f       0xfb C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .debug_abbrev  0x00001a8a       0x7a C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_icache_flush.o)
+ .debug_abbrev  0x00001b04       0xb7 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-atexit.o)
+ .debug_abbrev  0x00001bbb      0x16e c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-exit.o)
+ .debug_abbrev  0x00001d29      0x157 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-impure.o)
+ .debug_abbrev  0x00001e80       0x3b c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-int_errno.o)
+ .debug_abbrev  0x00001ebb       0x7c c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memcmp.o)
+ .debug_abbrev  0x00001f37       0xb5 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memcpy.o)
+ .debug_abbrev  0x00001fec       0x8b c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-strlen.o)
+ .debug_abbrev  0x00002077      0x1ae c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-__atexit.o)
+ .debug_abbrev  0x00002225      0x1de c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-__call_atexit.o)
+ .debug_abbrev  0x00002403       0x72 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_exit.o)
 
-.debug_line     0x00000000     0x5f59
+.debug_line     0x00000000     0x6041
  *(.debug_line)
- .debug_line    0x00000000       0x66 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp//obj/HAL/src/crt0.o
- .debug_line    0x00000066       0xcb obj/default/main.o
- .debug_line    0x00000131      0x217 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_load.o)
- .debug_line    0x00000348      0x2ca C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_main.o)
- .debug_line    0x00000612      0x2db C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_sys_init.o)
- .debug_line    0x000008ed      0x217 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
- .debug_line    0x00000b04      0x4ab C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_init.o)
- .debug_line    0x00000faf      0x317 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_ioctl.o)
- .debug_line    0x000012c6      0x3f7 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
- .debug_line    0x000016bd      0x405 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
- .debug_line    0x00001ac2      0x2dc C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_alarm_start.o)
- .debug_line    0x00001d9e      0x299 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_close.o)
- .debug_line    0x00002037      0x1b5 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
- .debug_line    0x000021ec      0x254 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_dev.o)
- .debug_line    0x00002440      0x25a C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
- .debug_line    0x0000269a       0x83 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_do_ctors.o)
- .debug_line    0x0000271d       0x83 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_do_dtors.o)
- .debug_line    0x000027a0      0x1aa C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_errno.o)
- .debug_line    0x0000294a      0x1b5 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
- .debug_line    0x00002aff      0x2c8 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_iic.o)
- .debug_line    0x00002dc7      0x249 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
- .debug_line    0x00003010      0x2b4 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_io_redirect.o)
- .debug_line    0x000032c4       0x6b C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_irq_entry.o)
- .debug_line    0x0000332f      0x248 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_irq_handler.o)
- .debug_line    0x00003577       0x72 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_irq_vars.o)
- .debug_line    0x000035e9      0x2ff C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_open.o)
- .debug_line    0x000038e8       0xed C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_release_fd.o)
- .debug_line    0x000039d5      0x2dc C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_tick.o)
- .debug_line    0x00003cb1      0x1ce C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
- .debug_line    0x00003e7f       0xab C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_exception_entry.o)
- .debug_line    0x00003f2a      0x26b C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_find_dev.o)
- .debug_line    0x00004195      0x27c C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_find_file.o)
- .debug_line    0x00004411      0x297 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_get_fd.o)
- .debug_line    0x000046a8      0x203 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
- .debug_line    0x000048ab      0x23b c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o)
- .debug_line    0x00004ae6      0x230 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-impure.o)
- .debug_line    0x00004d16      0x1e2 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-int_errno.o)
- .debug_line    0x00004ef8      0x2a2 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcmp.o)
- .debug_line    0x0000519a      0x1af c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcpy.o)
- .debug_line    0x00005349      0x270 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-strlen.o)
- .debug_line    0x000055b9      0x316 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__atexit.o)
- .debug_line    0x000058cf      0x36a c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
- .debug_line    0x00005c39      0x11a c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-mul.o)
- .debug_line    0x00005d53      0x206 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_exit.o)
+ .debug_line    0x00000000       0x72 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp//obj/HAL/src/crt0.o
+ .debug_line    0x00000072       0xc3 obj/default/main.o
+ .debug_line    0x00000135      0x217 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_load.o)
+ .debug_line    0x0000034c      0x2ca C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_line    0x00000616      0x2db C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_line    0x000008f1      0x217 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .debug_line    0x00000b08      0x4ab C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_init.o)
+ .debug_line    0x00000fb3      0x317 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_ioctl.o)
+ .debug_line    0x000012ca      0x3f7 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_line    0x000016c1      0x405 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_line    0x00001ac6      0x2dc C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_alarm_start.o)
+ .debug_line    0x00001da2      0x299 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_close.o)
+ .debug_line    0x0000203b      0x1cd C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_line    0x00002208      0x254 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_dev.o)
+ .debug_line    0x0000245c      0x25a C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_line    0x000026b6       0x83 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_do_ctors.o)
+ .debug_line    0x00002739       0x83 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_do_dtors.o)
+ .debug_line    0x000027bc      0x1aa C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_errno.o)
+ .debug_line    0x00002966      0x1bd C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_line    0x00002b23      0x2c8 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_iic.o)
+ .debug_line    0x00002deb      0x249 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+ .debug_line    0x00003034      0x2b4 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .debug_line    0x000032e8       0x6b C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ .debug_line    0x00003353      0x248 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .debug_line    0x0000359b       0x72 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_irq_vars.o)
+ .debug_line    0x0000360d      0x2ff C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_open.o)
+ .debug_line    0x0000390c       0xed C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .debug_line    0x000039f9      0x2dc C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_tick.o)
+ .debug_line    0x00003cd5      0x1ce C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .debug_line    0x00003ea3       0xab C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ .debug_line    0x00003f4e      0x26b C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_line    0x000041b9      0x27c C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_find_file.o)
+ .debug_line    0x00004435      0x297 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .debug_line    0x000046cc      0x1f9 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_icache_flush.o)
+ .debug_line    0x000048c5      0x200 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-atexit.o)
+ .debug_line    0x00004ac5      0x238 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-exit.o)
+ .debug_line    0x00004cfd      0x22d c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-impure.o)
+ .debug_line    0x00004f2a      0x1df c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-int_errno.o)
+ .debug_line    0x00005109      0x29f c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memcmp.o)
+ .debug_line    0x000053a8      0x1ac c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memcpy.o)
+ .debug_line    0x00005554      0x26d c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-strlen.o)
+ .debug_line    0x000057c1      0x313 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-__atexit.o)
+ .debug_line    0x00005ad4      0x367 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-__call_atexit.o)
+ .debug_line    0x00005e3b      0x206 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_exit.o)
 
-.debug_frame    0x00000000      0x884
+.debug_frame    0x00000000      0x880
  *(.debug_frame)
  .debug_frame   0x00000000       0x48 obj/default/main.o
  .debug_frame   0x00000048       0x48 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_load.o)
@@ -931,26 +931,26 @@ LOAD c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/
  .debug_frame   0x00000410       0x2c C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
  .debug_frame   0x0000043c       0x80 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_iic.o)
  .debug_frame   0x000004bc       0x2c C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
- .debug_frame   0x000004e8       0x4c C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_io_redirect.o)
- .debug_frame   0x00000534       0x2c C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_irq_handler.o)
- .debug_frame   0x00000560       0x68 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_open.o)
- .debug_frame   0x000005c8       0x30 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_release_fd.o)
- .debug_frame   0x000005f8       0x48 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_tick.o)
- .debug_frame   0x00000640       0x2c C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
- .debug_frame   0x0000066c       0x2c C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_find_dev.o)
- .debug_frame   0x00000698       0x2c C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_find_file.o)
- .debug_frame   0x000006c4       0x30 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_get_fd.o)
- .debug_frame   0x000006f4       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
- .debug_frame   0x00000714       0x28 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o)
- .debug_frame   0x0000073c       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcmp.o)
- .debug_frame   0x0000075c       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcpy.o)
- .debug_frame   0x0000077c       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-strlen.o)
- .debug_frame   0x0000079c       0x34 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__atexit.o)
- .debug_frame   0x000007d0       0x4c c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
- .debug_frame   0x0000081c       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-mul.o)
- .debug_frame   0x0000083c       0x48 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_exit.o)
+ .debug_frame   0x000004e8       0x48 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .debug_frame   0x00000530       0x2c C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .debug_frame   0x0000055c       0x64 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_open.o)
+ .debug_frame   0x000005c0       0x2c C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .debug_frame   0x000005ec       0x48 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_tick.o)
+ .debug_frame   0x00000634       0x2c C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .debug_frame   0x00000660       0x2c C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_frame   0x0000068c       0x2c C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_find_file.o)
+ .debug_frame   0x000006b8       0x2c C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .debug_frame   0x000006e4       0x2c C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_icache_flush.o)
+ .debug_frame   0x00000710       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-atexit.o)
+ .debug_frame   0x00000730       0x28 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-exit.o)
+ .debug_frame   0x00000758       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memcmp.o)
+ .debug_frame   0x00000778       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memcpy.o)
+ .debug_frame   0x00000798       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-strlen.o)
+ .debug_frame   0x000007b8       0x34 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-__atexit.o)
+ .debug_frame   0x000007ec       0x4c c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x00000838       0x48 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_exit.o)
 
-.debug_str      0x00000000      0xba5
+.debug_str      0x00000000      0xab4
  *(.debug_str)
  .debug_str     0x00000000       0x12 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_load.o)
  .debug_str     0x00000012       0x12 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_main.o)
@@ -977,29 +977,28 @@ LOAD c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/
  .debug_str     0x000001e7       0x12 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_find_dev.o)
  .debug_str     0x000001f9       0x12 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_find_file.o)
  .debug_str     0x0000020b       0x12 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_get_fd.o)
- .debug_str     0x0000021d      0x187 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
-                                0x1cd (size before relaxing)
- .debug_str     0x000003a4      0x387 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o)
+ .debug_str     0x0000021d       0x12 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_icache_flush.o)
+ .debug_str     0x0000022f      0x179 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-atexit.o)
+                                0x1bf (size before relaxing)
+ .debug_str     0x000003a8      0x384 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-exit.o)
+                                0x50c (size before relaxing)
+ .debug_str     0x0000072c       0xd1 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-impure.o)
                                 0x51a (size before relaxing)
- .debug_str     0x0000072b       0xdf c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-impure.o)
-                                0x528 (size before relaxing)
- .debug_str     0x0000080a       0x40 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-int_errno.o)
-                                0x171 (size before relaxing)
- .debug_str     0x0000084a       0xe3 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcmp.o)
-                                0x178 (size before relaxing)
- .debug_str     0x0000092d       0x6c c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcpy.o)
-                                0x136 (size before relaxing)
- .debug_str     0x00000999       0x52 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-strlen.o)
-                                0x18b (size before relaxing)
- .debug_str     0x000009eb       0x54 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__atexit.o)
-                                0x532 (size before relaxing)
- .debug_str     0x00000a3f       0x7e c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
-                                0x55c (size before relaxing)
- .debug_str     0x00000abd       0xcc c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-mul.o)
-                                0x175 (size before relaxing)
- .debug_str     0x00000b89       0x1c C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_exit.o)
+ .debug_str     0x000007fd       0x3d c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-int_errno.o)
+                                0x163 (size before relaxing)
+ .debug_str     0x0000083a       0xd5 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memcmp.o)
+                                0x16a (size before relaxing)
+ .debug_str     0x0000090f       0x69 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memcpy.o)
+                                0x128 (size before relaxing)
+ .debug_str     0x00000978       0x4f c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-strlen.o)
+                                0x17d (size before relaxing)
+ .debug_str     0x000009c7       0x56 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-__atexit.o)
+                                0x524 (size before relaxing)
+ .debug_str     0x00000a1d       0x7b c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-__call_atexit.o)
+                                0x54e (size before relaxing)
+ .debug_str     0x00000a98       0x1c C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_exit.o)
 
-.debug_loc      0x00000000      0xdea
+.debug_loc      0x00000000      0xdc6
  *(.debug_loc)
  .debug_loc     0x00000000       0x56 obj/default/main.o
  .debug_loc     0x00000056       0x56 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_load.o)
@@ -1029,15 +1028,15 @@ LOAD c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/
  .debug_loc     0x00000764       0x2b C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_find_dev.o)
  .debug_loc     0x0000078f       0x2b C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_find_file.o)
  .debug_loc     0x000007ba       0x2b C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_get_fd.o)
- .debug_loc     0x000007e5       0x1e c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
- .debug_loc     0x00000803       0x3d c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o)
- .debug_loc     0x00000840      0x114 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcmp.o)
- .debug_loc     0x00000954       0xca c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcpy.o)
- .debug_loc     0x00000a1e       0x3c c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-strlen.o)
- .debug_loc     0x00000a5a      0x120 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__atexit.o)
- .debug_loc     0x00000b7a      0x1cb c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
- .debug_loc     0x00000d45       0x4f c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-mul.o)
- .debug_loc     0x00000d94       0x56 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_exit.o)
+ .debug_loc     0x000007e5       0x2b C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_icache_flush.o)
+ .debug_loc     0x00000810       0x1e c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-atexit.o)
+ .debug_loc     0x0000082e       0x3d c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-exit.o)
+ .debug_loc     0x0000086b      0x114 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memcmp.o)
+ .debug_loc     0x0000097f       0xca c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-memcpy.o)
+ .debug_loc     0x00000a49       0x3c c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-strlen.o)
+ .debug_loc     0x00000a85      0x120 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-__atexit.o)
+ .debug_loc     0x00000ba5      0x1cb c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-__call_atexit.o)
+ .debug_loc     0x00000d70       0x56 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_exit.o)
 
 .debug_macinfo
  *(.debug_macinfo)
@@ -1055,14 +1054,14 @@ LOAD c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/
  *(.debug_varnames)
 
 .debug_alt_sim_info
-                0x00000000       0x10
+                0x00000000       0x30
  *(.debug_alt_sim_info)
  .debug_alt_sim_info
-                0x00000000       0x10 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp//obj/HAL/src/crt0.o
+                0x00000000       0x30 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp//obj/HAL/src/crt0.o
                 0x06000000                __alt_data_end = 0x6000000
                 0x06000000                PROVIDE (__alt_stack_pointer, __alt_data_end)
-                0x040057d0                PROVIDE (__alt_stack_limit, __alt_stack_base)
-                0x040057d0                PROVIDE (__alt_heap_start, end)
+                0x040057f0                PROVIDE (__alt_stack_limit, __alt_stack_base)
+                0x040057f0                PROVIDE (__alt_heap_start, end)
                 0x06000000                PROVIDE (__alt_heap_limit, 0x6000000)
 OUTPUT(DE2_70_D5M.elf elf32-littlenios2)
 
@@ -1070,4 +1069,4 @@ OUTPUT(DE2_70_D5M.elf elf32-littlenios2)
  .debug_ranges  0x00000000       0x20 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp//obj/HAL/src/crt0.o
  .debug_ranges  0x00000020       0x28 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_irq_entry.o)
  .debug_ranges  0x00000048       0x30 C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M_bsp/\libhal_bsp.a(alt_exception_entry.o)
- .debug_ranges  0x00000078       0x18 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
+ .debug_ranges  0x00000078       0x18 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib\libc.a(lib_a-__call_atexit.o)

@@ -259,11 +259,6 @@
          value = "1";
          type = "int";
       }
-      datum sopceditor_expanded
-      {
-         value = "1";
-         type = "boolean";
-      }
    }
    element nios2_processor.jtag_debug_module
    {
@@ -341,7 +336,7 @@
  <parameter name="projectName" value="" />
  <parameter name="sopcBorderPoints" value="false" />
  <parameter name="systemHash" value="1" />
- <parameter name="timeStamp" value="1526643590532" />
+ <parameter name="timeStamp" value="1526901154455" />
  <parameter name="useTestBenchNamingPattern" value="false" />
  <instanceScript></instanceScript>
  <interface name="clk" internal="clk_0.clk_in" type="clock" dir="end" />
@@ -370,26 +365,18 @@
    internal="VGA_Controller.external_interface"
    type="conduit"
    dir="end" />
+ <interface name="sdram_wire" internal="sdram.wire" type="conduit" dir="end" />
  <interface
    name="camera_clk"
    internal="clock_bridge.out_clk"
    type="clock"
    dir="start" />
- <interface name="sdram_wire" internal="sdram.wire" type="conduit" dir="end" />
+ <interface name="reset" internal="clk_0.clk_in_reset" type="reset" dir="end" />
  <module kind="clock_source" version="13.0" enabled="1" name="clk_0">
   <parameter name="clockFrequency" value="50000000" />
   <parameter name="clockFrequencyKnown" value="true" />
   <parameter name="inputClockFrequency" value="0" />
   <parameter name="resetSynchronousEdges" value="NONE" />
- </module>
- <module
-   kind="altera_clock_bridge"
-   version="13.0"
-   enabled="1"
-   name="clock_bridge">
-  <parameter name="DERIVED_CLOCK_RATE" value="50000000" />
-  <parameter name="EXPLICIT_CLOCK_RATE" value="0" />
-  <parameter name="NUM_CLOCK_OUTPUTS" value="1" />
  </module>
  <module
    kind="altera_up_clocks"
@@ -659,7 +646,7 @@
   <parameter name="mmu_tlbPtrSz" value="7" />
   <parameter name="mmu_tlbNumWays" value="16" />
   <parameter name="mmu_processIDNumBits" value="8" />
-  <parameter name="impl" value="Tiny" />
+  <parameter name="impl" value="Fast" />
   <parameter name="icache_size" value="4096" />
   <parameter name="icache_tagramBlockType" value="Automatic" />
   <parameter name="icache_ramBlockType" value="Automatic" />
@@ -778,6 +765,15 @@
   <parameter name="registerDataIn" value="true" />
   <parameter name="clockRate" value="50000000" />
   <parameter name="componentName" value="$${FILENAME}_sdram" />
+ </module>
+ <module
+   kind="altera_clock_bridge"
+   version="13.0"
+   enabled="1"
+   name="clock_bridge">
+  <parameter name="DERIVED_CLOCK_RATE" value="50000000" />
+  <parameter name="EXPLICIT_CLOCK_RATE" value="0" />
+  <parameter name="NUM_CLOCK_OUTPUTS" value="1" />
  </module>
  <connection
    kind="clock"
@@ -974,11 +970,6 @@
    version="13.0"
    start="Video_RGB_Resampler_1.avalon_rgb_source"
    end="Dual_Clock_FIFO.avalon_dc_buffer_sink" />
- <connection
-   kind="clock"
-   version="13.0"
-   start="Clock_Signals.sys_clk"
-   end="clock_bridge.in_clk" />
  <connection
    kind="avalon"
    version="13.0"
@@ -1203,11 +1194,6 @@
    start="Clock_Signals.sys_clk_reset"
    end="sdram.reset" />
  <connection
-   kind="reset"
-   version="13.0"
-   start="Clock_Signals.sys_clk_reset"
-   end="clk_0.clk_in_reset" />
- <connection
    kind="avalon"
    version="13.0"
    start="Pixel_Buffer_DMA.avalon_pixel_dma_master"
@@ -1243,6 +1229,11 @@
   <parameter name="baseAddress" value="0x0000" />
   <parameter name="defaultConnection" value="false" />
  </connection>
+ <connection
+   kind="clock"
+   version="13.0"
+   start="Clock_Signals.sys_clk"
+   end="clock_bridge.in_clk" />
  <interconnectRequirement for="$system" name="qsys_mm.clockCrossingAdapter" value="HANDSHAKE" />
  <interconnectRequirement for="$system" name="qsys_mm.maxAdditionalLatency" value="1" />
 </system>

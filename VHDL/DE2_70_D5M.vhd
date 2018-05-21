@@ -62,7 +62,7 @@ ARCHITECTURE Structure OF DE2_70_D5M IS
     component de2_70 is
         port (
 				clk_clk                 : in    std_logic                     := 'X';             -- clk
-				--reset_reset_n : IN STD_LOGIC;
+				reset_reset_n : IN STD_LOGIC;
 				
             av_config_SDAT          : inout std_logic                     := 'X';				 -- SDAT
             av_config_SCLK          : out   std_logic;                                        -- SCLK
@@ -121,7 +121,7 @@ ARCHITECTURE Structure OF DE2_70_D5M IS
 		  		  
         port map (
             clk_clk                 => CLOCK_50,                 		  --        clk.clk
-				--reset_reset_n => KEY(2),
+				reset_reset_n           => KEY(2),
 				
             av_config_SDAT          => DE2_70_AV_CONFIG_SDAT,          --  av_config.SDAT
             av_config_SCLK          => DE2_70_AV_CONFIG_SCLK,          --           .SCLK

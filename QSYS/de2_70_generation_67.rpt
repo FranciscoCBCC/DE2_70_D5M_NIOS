@@ -1,0 +1,230 @@
+Info: Starting: Create block symbol file (.bsf)
+Info: ip-generate --project-directory=C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/QSYS/ --output-directory=C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/QSYS/de2_70/ --report-file=bsf:C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/QSYS/de2_70.bsf --system-info=DEVICE_FAMILY="Cyclone II" --system-info=DEVICE=EP2C70F896C6 --system-info=DEVICE_SPEEDGRADE=6 --component-file=C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/QSYS/de2_70.qsys
+Progress: Loading QSYS/de2_70.qsys
+Progress: Reading input file
+Progress: Adding clk_0 [clock_source 13.0]
+Progress: Parameterizing module clk_0
+Progress: Adding Clock_Signals [altera_up_clocks 13.0]
+Progress: Parameterizing module Clock_Signals
+Progress: Adding AV_Config [altera_up_avalon_audio_and_video_config 13.0]
+Progress: Parameterizing module AV_Config
+Progress: Adding Video_In_Decoder [altera_up_avalon_video_decoder 13.0]
+Progress: Parameterizing module Video_In_Decoder
+Progress: Adding Video_Bayer_Pattern_Resampler [altera_up_avalon_video_bayer_resampler 13.0]
+Progress: Parameterizing module Video_Bayer_Pattern_Resampler
+Progress: Adding Video_Clipper [altera_up_avalon_video_clipper 13.0]
+Progress: Parameterizing module Video_Clipper
+Progress: Adding Video_Scaler_0 [altera_up_avalon_video_scaler 13.0]
+Progress: Parameterizing module Video_Scaler_0
+Progress: Adding Video_RGB_Resampler_0 [altera_up_avalon_video_rgb_resampler 13.0]
+Progress: Parameterizing module Video_RGB_Resampler_0
+Progress: Adding Video_DMA [altera_up_avalon_video_dma_controller 13.0]
+Progress: Parameterizing module Video_DMA
+Progress: Adding Pixel_Buffer [altera_up_avalon_sram 13.0]
+Progress: Parameterizing module Pixel_Buffer
+Progress: Adding Pixel_Buffer_DMA [altera_up_avalon_video_pixel_buffer_dma 13.0]
+Progress: Parameterizing module Pixel_Buffer_DMA
+Progress: Adding Video_RGB_Resampler_1 [altera_up_avalon_video_rgb_resampler 13.0]
+Progress: Parameterizing module Video_RGB_Resampler_1
+Progress: Adding Video_Scaler_1 [altera_up_avalon_video_scaler 13.0]
+Progress: Parameterizing module Video_Scaler_1
+Progress: Adding Dual_Clock_FIFO [altera_up_avalon_video_dual_clock_buffer 13.0]
+Progress: Parameterizing module Dual_Clock_FIFO
+Progress: Adding VGA_Controller [altera_up_avalon_video_vga_controller 13.0]
+Progress: Parameterizing module VGA_Controller
+Progress: Adding nios2_processor [altera_nios2_qsys 13.0]
+Progress: Parameterizing module nios2_processor
+Progress: Adding onchip_memory [altera_avalon_onchip_memory2 13.0.1.99.2]
+Progress: Parameterizing module onchip_memory
+Progress: Adding jtag_uart [altera_avalon_jtag_uart 13.0.1.99.2]
+Progress: Parameterizing module jtag_uart
+Progress: Adding sdram [altera_avalon_new_sdram_controller 13.0.1.99.2]
+Progress: Parameterizing module sdram
+Progress: Adding clock_bridge [altera_clock_bridge 13.0]
+Progress: Parameterizing module clock_bridge
+Progress: Building connections
+Progress: Parameterizing connections
+Progress: Validating
+Progress: Done reading input file
+Info: de2_70.Video_In_Decoder: Video In Stream: Format: 2592 x 1944 (default) with Colour: 8 (bits) x 1 (planes) (RGB Bayer Pattern)
+Info: de2_70.Video_Bayer_Pattern_Resampler: Change in Resolution: 2592 x 1944 -> 1296 x 972
+Info: de2_70.Video_Clipper: Change in Resolution: 1296 x 972 -> 1280 x 960
+Info: de2_70.Video_Scaler_0: Change in Resolution: 1280 x 960 -> 320 x 240
+Info: de2_70.Video_RGB_Resampler_0: RGB Resampling: 8 (bits) x 3 (planes) -> 16 (bits) x 1 (planes)
+Info: de2_70.Video_RGB_Resampler_1: RGB Resampling: 16 (bits) x 1 (planes) -> 10 (bits) x 3 (planes)
+Info: de2_70.Video_Scaler_1: Change in Resolution: 320 x 240 -> 640 x 480
+Info: de2_70.VGA_Controller: Video Output Stream: Format: 640 x 480 with Color: 10 (bits) x 3 (planes)
+Info: de2_70.Video_Bayer_Pattern_Resampler.avalon_bayer_source/Video_Clipper.avalon_clipper_sink: The width of the data signal from the source is 24 bits, but is 8 bits to the sink. Avalon Streaming Transform will be executed.
+Info: de2_70.Video_Clipper.avalon_clipper_source/Video_Scaler_0.avalon_scaler_sink: The width of the data signal from the source is 8 bits, but is 24 bits to the sink. Avalon Streaming Transform will be executed.
+Warning: de2_70.AV_Config: AV_Config.avalon_av_config_slave must be connected to an Avalon-MM master
+Warning: de2_70.Video_DMA: Video_DMA.avalon_dma_control_slave must be connected to an Avalon-MM master
+Info: ip-generate succeeded.
+Info: Finished: Create block symbol file (.bsf)
+Info: 
+Info: Starting: Create HDL design files for synthesis
+Info: ip-generate --project-directory=C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/QSYS/ --output-directory=C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/QSYS/de2_70/synthesis/ --file-set=QUARTUS_SYNTH --report-file=sopcinfo:C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/QSYS/de2_70.sopcinfo --report-file=html:C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/QSYS/de2_70.html --report-file=qip:C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/QSYS/de2_70/synthesis/de2_70.qip --report-file=cmp:C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/QSYS/de2_70.cmp --report-file=svd --system-info=DEVICE_FAMILY="Cyclone II" --system-info=DEVICE=EP2C70F896C6 --system-info=DEVICE_SPEEDGRADE=6 --component-file=C:/Users/Francisco/Desktop/DE2_70_D5M_NIOS/QSYS/de2_70.qsys --language=VHDL
+Progress: Loading QSYS/de2_70.qsys
+Progress: Reading input file
+Progress: Adding clk_0 [clock_source 13.0]
+Progress: Parameterizing module clk_0
+Progress: Adding Clock_Signals [altera_up_clocks 13.0]
+Progress: Parameterizing module Clock_Signals
+Progress: Adding AV_Config [altera_up_avalon_audio_and_video_config 13.0]
+Progress: Parameterizing module AV_Config
+Progress: Adding Video_In_Decoder [altera_up_avalon_video_decoder 13.0]
+Progress: Parameterizing module Video_In_Decoder
+Progress: Adding Video_Bayer_Pattern_Resampler [altera_up_avalon_video_bayer_resampler 13.0]
+Progress: Parameterizing module Video_Bayer_Pattern_Resampler
+Progress: Adding Video_Clipper [altera_up_avalon_video_clipper 13.0]
+Progress: Parameterizing module Video_Clipper
+Progress: Adding Video_Scaler_0 [altera_up_avalon_video_scaler 13.0]
+Progress: Parameterizing module Video_Scaler_0
+Progress: Adding Video_RGB_Resampler_0 [altera_up_avalon_video_rgb_resampler 13.0]
+Progress: Parameterizing module Video_RGB_Resampler_0
+Progress: Adding Video_DMA [altera_up_avalon_video_dma_controller 13.0]
+Progress: Parameterizing module Video_DMA
+Progress: Adding Pixel_Buffer [altera_up_avalon_sram 13.0]
+Progress: Parameterizing module Pixel_Buffer
+Progress: Adding Pixel_Buffer_DMA [altera_up_avalon_video_pixel_buffer_dma 13.0]
+Progress: Parameterizing module Pixel_Buffer_DMA
+Progress: Adding Video_RGB_Resampler_1 [altera_up_avalon_video_rgb_resampler 13.0]
+Progress: Parameterizing module Video_RGB_Resampler_1
+Progress: Adding Video_Scaler_1 [altera_up_avalon_video_scaler 13.0]
+Progress: Parameterizing module Video_Scaler_1
+Progress: Adding Dual_Clock_FIFO [altera_up_avalon_video_dual_clock_buffer 13.0]
+Progress: Parameterizing module Dual_Clock_FIFO
+Progress: Adding VGA_Controller [altera_up_avalon_video_vga_controller 13.0]
+Progress: Parameterizing module VGA_Controller
+Progress: Adding nios2_processor [altera_nios2_qsys 13.0]
+Progress: Parameterizing module nios2_processor
+Progress: Adding onchip_memory [altera_avalon_onchip_memory2 13.0.1.99.2]
+Progress: Parameterizing module onchip_memory
+Progress: Adding jtag_uart [altera_avalon_jtag_uart 13.0.1.99.2]
+Progress: Parameterizing module jtag_uart
+Progress: Adding sdram [altera_avalon_new_sdram_controller 13.0.1.99.2]
+Progress: Parameterizing module sdram
+Progress: Adding clock_bridge [altera_clock_bridge 13.0]
+Progress: Parameterizing module clock_bridge
+Progress: Building connections
+Progress: Parameterizing connections
+Progress: Validating
+Progress: Done reading input file
+Info: de2_70.Video_In_Decoder: Video In Stream: Format: 2592 x 1944 (default) with Colour: 8 (bits) x 1 (planes) (RGB Bayer Pattern)
+Info: de2_70.Video_Bayer_Pattern_Resampler: Change in Resolution: 2592 x 1944 -> 1296 x 972
+Info: de2_70.Video_Clipper: Change in Resolution: 1296 x 972 -> 1280 x 960
+Info: de2_70.Video_Scaler_0: Change in Resolution: 1280 x 960 -> 320 x 240
+Info: de2_70.Video_RGB_Resampler_0: RGB Resampling: 8 (bits) x 3 (planes) -> 16 (bits) x 1 (planes)
+Info: de2_70.Video_RGB_Resampler_1: RGB Resampling: 16 (bits) x 1 (planes) -> 10 (bits) x 3 (planes)
+Info: de2_70.Video_Scaler_1: Change in Resolution: 320 x 240 -> 640 x 480
+Info: de2_70.VGA_Controller: Video Output Stream: Format: 640 x 480 with Color: 10 (bits) x 3 (planes)
+Info: de2_70.Video_Bayer_Pattern_Resampler.avalon_bayer_source/Video_Clipper.avalon_clipper_sink: The width of the data signal from the source is 24 bits, but is 8 bits to the sink. Avalon Streaming Transform will be executed.
+Info: de2_70.Video_Clipper.avalon_clipper_source/Video_Scaler_0.avalon_scaler_sink: The width of the data signal from the source is 8 bits, but is 24 bits to the sink. Avalon Streaming Transform will be executed.
+Warning: de2_70.AV_Config: AV_Config.avalon_av_config_slave must be connected to an Avalon-MM master
+Warning: de2_70.Video_DMA: Video_DMA.avalon_dma_control_slave must be connected to an Avalon-MM master
+Info: de2_70: Generating de2_70 "de2_70" for QUARTUS_SYNTH
+Info: pipeline_bridge_swap_transform: After transform: 20 modules, 81 connections
+Info: No custom instruction connections, skipping transform 
+Info: merlin_translator_transform: After transform: 30 modules, 121 connections
+Info: merlin_domain_transform: After transform: 48 modules, 238 connections
+Info: merlin_router_transform: After transform: 58 modules, 278 connections
+Info: merlin_traffic_limiter_transform: After transform: 59 modules, 283 connections
+Info: merlin_burst_transform: After transform: 60 modules, 287 connections
+Info: reset_adaptation_transform: After transform: 63 modules, 228 connections
+Info: merlin_network_to_switch_transform: After transform: 82 modules, 274 connections
+Info: merlin_width_transform: After transform: 90 modules, 298 connections
+Info: limiter_update_transform: After transform: 90 modules, 299 connections
+Info: merlin_mm_transform: After transform: 90 modules, 299 connections
+Info: merlin_interrupt_mapper_transform: After transform: 91 modules, 302 connections
+Info: avalon_st_adapter: Inserting data_format_adapter: data_format_adapter_0
+Info: avalon_st_adapter_001: Inserting data_format_adapter: data_format_adapter_0
+Error: avalon_st_adapter_001.data_format_adapter_0: Adaptation for output symbolsPerBeat > input symbolsPerBeat requires the output empty signal to be present
+Info: com_altera_sopcmodel_transforms_avalonst_AvalonStreamingTransform: After transform: 93 modules, 308 connections
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Warning: de2_70: "No matching role found for rst_controller_001:reset_out:reset_req (reset_req)"
+Error: Generation stopped, 110 or more modules remaining
+Info: de2_70: Done de2_70" with 51 modules, 22 files, 910126 bytes
+Error: ip-generate failed with exit code 1: 2 Errors, 87 Warnings
+Info: Finished: Create HDL design files for synthesis

@@ -1017,3 +1017,668 @@ Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.
 
 !ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:01:06.268
 !MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M/DE2_70_D5M.elf]
+!SESSION 2018-05-18 10:17:30.313 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.6.0_23
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+
+!ENTRY com.altera.sbtgui.launch 4 0 2018-05-18 10:17:58.173
+!MESSAGE Unable to validate connection settings.
+!STACK 0
+java.lang.Exception: Connected system ID hash not found on target at expected base address.
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.assertTrue(SystemConsoleConnectionModel.java:645)
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.validateSystemId(SystemConsoleConnectionModel.java:589)
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.validateConnectionSettings(SystemConsoleConnectionModel.java:511)
+	at com.altera.sbtgui.launch.hardware.AbstractNios2CLaunchDelegate.launch(AbstractNios2CLaunchDelegate.java:115)
+	at com.altera.sbtgui.launch.hardware.Nios2HardwareLaunchDelegate.launch(Nios2HardwareLaunchDelegate.java:98)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:854)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:937)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1141)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY com.altera.sbtgui.launch 4 0 2018-05-18 10:17:58.173
+!MESSAGE Unable to validate connection settings.
+!STACK 0
+java.lang.Exception: Connected system ID hash not found on target at expected base address.
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.assertTrue(SystemConsoleConnectionModel.java:645)
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.validateSystemId(SystemConsoleConnectionModel.java:589)
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.validateConnectionSettings(SystemConsoleConnectionModel.java:511)
+	at com.altera.sbtgui.launch.hardware.AbstractNios2CLaunchDelegate.launch(AbstractNios2CLaunchDelegate.java:115)
+	at com.altera.sbtgui.launch.hardware.Nios2HardwareLaunchDelegate.launch(Nios2HardwareLaunchDelegate.java:98)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:854)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:937)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1141)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:18:53.355
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:18:55.180
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M/DE2_70_D5M.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:19:04.729
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:19:05.181
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:19:07.022
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M/DE2_70_D5M.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:21:42.166
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:21:42.611
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:21:44.423
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M/DE2_70_D5M.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:22:21.819
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:22:23.681
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M/DE2_70_D5M.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:22:30.727
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:22:31.164
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:22:32.994
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M/DE2_70_D5M.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:22:54.901
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:22:55.353
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:22:57.197
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M/DE2_70_D5M.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:23:50.483
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:23:50.921
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:23:52.764
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M/DE2_70_D5M.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:24:08.713
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:24:09.134
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:24:10.949
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M/DE2_70_D5M.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:24:22.441
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:24:22.894
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:24:24.703
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M/DE2_70_D5M.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:24:53.441
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:24:53.896
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:24:55.743
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M/DE2_70_D5M.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:25:08.574
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:25:09.011
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:25:10.811
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M/DE2_70_D5M.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:28:29.287
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:28:31.115
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M/DE2_70_D5M.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:29:50.535
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:29:52.364
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M/DE2_70_D5M.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:30:03.614
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:30:04.050
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:30:05.785
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M/DE2_70_D5M.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:30:08.243
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:30:10.070
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M/DE2_70_D5M.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:30:15.774
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:30:16.211
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:30:18.025
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M/DE2_70_D5M.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:30:23.319
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:30:23.772
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:30:25.411
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:30:26.633
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M/DE2_70_D5M.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:30:27.304
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M/DE2_70_D5M.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:30:33.456
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:30:33.456
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:30:33.895
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:30:35.724
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M/DE2_70_D5M.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:33:49.172
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:33:51.003
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M/DE2_70_D5M.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:34:02.931
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+!SESSION 2018-05-18 10:36:05.506 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.6.0_23
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+
+!ENTRY org.eclipse.core.resources 2 10035 2018-05-18 10:36:07.521
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2018-05-18 10:36:20.024
+!MESSAGE Unable to validate connection settings.
+!STACK 0
+java.lang.Exception: Connected system ID hash not found on target at expected base address.
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.assertTrue(SystemConsoleConnectionModel.java:645)
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.validateSystemId(SystemConsoleConnectionModel.java:589)
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.validateConnectionSettings(SystemConsoleConnectionModel.java:511)
+	at com.altera.sbtgui.launch.hardware.AbstractNios2CLaunchDelegate.launch(AbstractNios2CLaunchDelegate.java:115)
+	at com.altera.sbtgui.launch.hardware.Nios2HardwareLaunchDelegate.launch(Nios2HardwareLaunchDelegate.java:98)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:854)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:937)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1141)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY com.altera.sbtgui.launch 4 0 2018-05-18 10:36:20.024
+!MESSAGE Unable to validate connection settings.
+!STACK 0
+java.lang.Exception: Connected system ID hash not found on target at expected base address.
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.assertTrue(SystemConsoleConnectionModel.java:645)
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.validateSystemId(SystemConsoleConnectionModel.java:589)
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.validateConnectionSettings(SystemConsoleConnectionModel.java:511)
+	at com.altera.sbtgui.launch.hardware.AbstractNios2CLaunchDelegate.launch(AbstractNios2CLaunchDelegate.java:115)
+	at com.altera.sbtgui.launch.hardware.Nios2HardwareLaunchDelegate.launch(Nios2HardwareLaunchDelegate.java:98)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:854)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:937)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1141)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:36:37.681
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:36:39.523
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M/DE2_70_D5M.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:43:17.455
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:43:19.269
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M/DE2_70_D5M.elf]
+
+!ENTRY com.altera.sbtgui.launch 4 0 2018-05-18 10:43:23.790
+!MESSAGE Failed Executing: [nios2-download, '--cable=USB-Blaster on localhost [USB-0]', --device=1, --instance=0, --go, /cygdrive/c/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M/DE2_70_D5M.elf] return code: 134
+
+!ENTRY com.altera.sbtgui.launch 4 0 2018-05-18 10:43:23.790
+!MESSAGE Downloading ELF Process failed
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:44:01.478
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:44:03.811
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M/DE2_70_D5M.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:44:10.567
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:44:11.004
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:44:12.804
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M/DE2_70_D5M.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:44:19.371
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:44:19.809
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:44:21.651
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M/DE2_70_D5M.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:44:27.276
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:44:27.713
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:44:30.058
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M/DE2_70_D5M.elf]
+
+!ENTRY com.altera.sbtgui.launch 4 0 2018-05-18 10:44:34.663
+!MESSAGE Failed Executing: [nios2-download, '--cable=USB-Blaster on localhost [USB-0]', --device=1, --instance=0, --go, /cygdrive/c/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M/DE2_70_D5M.elf] return code: 134
+
+!ENTRY com.altera.sbtgui.launch 4 0 2018-05-18 10:44:34.663
+!MESSAGE Downloading ELF Process failed
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:44:41.604
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:44:43.935
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M/DE2_70_D5M.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:44:52.865
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:44:55.211
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M/DE2_70_D5M.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:48:09.373
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:48:11.188
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M/DE2_70_D5M.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:48:20.120
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:48:20.574
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:48:22.418
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M/DE2_70_D5M.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:56:41.172
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 10:56:43.015
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M/DE2_70_D5M.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 11:00:45.209
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 11:00:47.036
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M/DE2_70_D5M.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 11:00:54.048
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 11:00:54.501
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 11:00:56.334
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M/DE2_70_D5M.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 11:05:27.896
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 11:05:28.332
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 11:05:30.175
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M/DE2_70_D5M.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 11:06:05.407
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 11:06:07.205
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M/DE2_70_D5M.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 11:06:14.722
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 11:06:15.174
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 11:06:17.034
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M/DE2_70_D5M.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 11:07:28.285
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 11:07:29.021
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 11:07:30.880
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M/DE2_70_D5M.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 11:07:43.114
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 11:07:43.566
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 11:07:45.397
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M/DE2_70_D5M.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 11:08:17.257
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 11:08:17.710
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 11:08:19.571
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M/DE2_70_D5M.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 11:09:28.705
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 11:09:29.157
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 11:09:31.002
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M/DE2_70_D5M.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 11:09:57.459
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+!SESSION 2018-05-18 11:10:44.968 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.6.0_23
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+
+!ENTRY org.eclipse.core.resources 2 10035 2018-05-18 11:10:46.499
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2018-05-18 11:11:01.705
+!MESSAGE Unable to validate connection settings.
+!STACK 0
+java.lang.Exception: Connected system ID hash not found on target at expected base address.
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.assertTrue(SystemConsoleConnectionModel.java:645)
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.validateSystemId(SystemConsoleConnectionModel.java:589)
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.validateConnectionSettings(SystemConsoleConnectionModel.java:511)
+	at com.altera.sbtgui.launch.hardware.AbstractNios2CLaunchDelegate.launch(AbstractNios2CLaunchDelegate.java:115)
+	at com.altera.sbtgui.launch.hardware.Nios2HardwareLaunchDelegate.launch(Nios2HardwareLaunchDelegate.java:98)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:854)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:937)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1141)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY com.altera.sbtgui.launch 4 0 2018-05-18 11:11:01.705
+!MESSAGE Unable to validate connection settings.
+!STACK 0
+java.lang.Exception: Connected system ID hash not found on target at expected base address.
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.assertTrue(SystemConsoleConnectionModel.java:645)
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.validateSystemId(SystemConsoleConnectionModel.java:589)
+	at com.altera.embeddedsw.flash.model.internal.SystemConsoleConnectionModel.validateConnectionSettings(SystemConsoleConnectionModel.java:511)
+	at com.altera.sbtgui.launch.hardware.AbstractNios2CLaunchDelegate.launch(AbstractNios2CLaunchDelegate.java:115)
+	at com.altera.sbtgui.launch.hardware.Nios2HardwareLaunchDelegate.launch(Nios2HardwareLaunchDelegate.java:98)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:854)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:703)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:937)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1141)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 11:11:26.433
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 11:11:28.265
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M/DE2_70_D5M.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 11:11:50.681
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 11:11:52.508
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M/DE2_70_D5M.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 11:17:03.244
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 11:17:05.055
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M/DE2_70_D5M.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 11:17:18.743
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 11:17:19.180
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 11:17:21.000
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M/DE2_70_D5M.elf]
+!SESSION 2018-05-18 12:06:16.389 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.6.0_23
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 12:07:55.724
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 12:07:57.586
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M/DE2_70_D5M.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 12:08:08.756
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 12:08:09.209
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 12:08:11.036
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M/DE2_70_D5M.elf]
+
+!ENTRY com.altera.sbtgui.launch 4 0 2018-05-18 12:08:15.807
+!MESSAGE Failed Executing: [nios2-download, '--cable=USB-Blaster on localhost [USB-0]', --device=1, --instance=0, --go, /cygdrive/c/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M/DE2_70_D5M.elf] return code: 134
+
+!ENTRY com.altera.sbtgui.launch 4 0 2018-05-18 12:08:15.807
+!MESSAGE Downloading ELF Process failed
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 12:08:20.857
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 12:08:22.688
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M/DE2_70_D5M.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 12:17:00.586
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 12:17:02.397
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M/DE2_70_D5M.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 12:17:10.286
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 12:17:10.724
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-18 12:17:12.573
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M/DE2_70_D5M.elf]
+!SESSION 2018-05-21 08:13:38.714 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.6.0_23
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-21 08:16:14.225
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-21 08:16:16.409
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M/DE2_70_D5M.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-21 08:16:27.487
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-21 08:16:27.940
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-21 08:16:29.765
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M/DE2_70_D5M.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-21 08:49:52.593
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-21 08:49:54.420
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M/DE2_70_D5M.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-21 08:50:13.289
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-21 08:50:13.703
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-21 08:50:15.508
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M/DE2_70_D5M.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-21 08:50:20.683
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-21 08:50:21.094
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-21 08:50:22.926
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M/DE2_70_D5M.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-21 08:50:36.676
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-21 08:50:37.090
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-21 08:50:38.876
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M/DE2_70_D5M.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-21 08:51:12.618
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-21 08:51:13.045
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-21 08:51:14.836
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M/DE2_70_D5M.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-21 08:51:22.806
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-21 08:51:23.224
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-21 08:51:25.052
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M/DE2_70_D5M.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-21 09:57:46.913
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-21 09:57:48.742
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M/DE2_70_D5M.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-21 09:59:46.745
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-21 09:59:48.619
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M/DE2_70_D5M.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-21 09:59:55.854
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-21 09:59:56.304
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-21 09:59:58.149
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M/DE2_70_D5M.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-21 10:00:03.860
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-21 10:00:04.315
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-21 10:00:06.144
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M/DE2_70_D5M.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-21 10:00:26.384
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-21 10:00:26.821
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-21 10:00:28.666
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M/DE2_70_D5M.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-21 10:00:34.789
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-21 10:00:35.229
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-21 10:00:37.075
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M/DE2_70_D5M.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-21 10:00:50.746
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-21 10:00:51.200
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-21 10:00:53.026
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M/DE2_70_D5M.elf]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-21 10:01:22.700
+!MESSAGE Terminated Launch with connection: 10USB-Blaster on localhost [USB-0]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-21 10:01:23.137
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --stop]
+
+!ENTRY com.altera.sbtgui.launch 1 0 2018-05-21 10:01:24.981
+!MESSAGE Executing: [C:/altera/13.0sp1/quartus\bin\cygwin\bin\bash.exe, -c, nios2-download '--cable=USB-Blaster on localhost [USB-0]' --device=1 --instance=0 --go /cygdrive/c/Users/Francisco/Desktop/DE2_70_D5M_NIOS/Eclipse/Software/DE2_70_D5M/DE2_70_D5M.elf]

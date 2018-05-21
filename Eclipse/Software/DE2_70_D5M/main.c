@@ -8,19 +8,8 @@ int main(void)
 {
 
 	/* draw a blue box approx in the middle of the screen */
-
  	VGA_box (0, 0, 319, 239, 0); // clear screen
-	VGA_box (136 /*x1*/, 112 /*y1*/, 200 /*x2*/, 128 /*y2*/, 0x187F);
-
-
-
-
-	//volatile short * sdram = (short *) 0x04000000;
-	//volatile short * sram = (short *)  0x00000000;
-
-	//*sdram = *sram;
-
-
+	//VGA_box (136 /*x1*/, 112 /*y1*/, 200 /*x2*/, 128 /*y2*/, 0x187F);
 
 }
 
@@ -33,24 +22,21 @@ void VGA_box(int x1, int y1, int x2, int y2, short pixel_color)
 	/* Declare volatile pointer to pixel buffer (volatile means that IO load
 	   and store instructions will be used to access these pointer locations,
 	   instead of regular memory loads and stores) */
-  	volatile short * pixel_buffer = (short *) 0x04000000;	// VGA pixel buffer address
+	volatile short * SDRAM = (volatile short *) 0x04000000;	// VGA pixel buffer address
 
   	volatile short * sram = (short *)  0x00000000;
-
-
 
 
 	/* assume that the box coordinates are valid */
 	for (row = y1; row <= y2; row++)
 	{
 		col = x1;
-		while (col <= x2)
+		while (col <=x2)
 		{
 			offset = (row << 9) + col;
 
 
-			*(pixel_buffer + offset) = *(sram + offset);	// compute halfword address, set pixel
-
+			*(SDRAM + offset) = *(sram + offset);	// compute halfword address, set pixel
 
 
 			++col;

@@ -69,7 +69,7 @@ CHIP  "DE2_70_D5M"  ASSIGNED TO AN: EP2C70F896C6
 Pin Name/Usage               : Location  : Dir.   : I/O Standard      : Voltage : I/O Bank  : User Assignment
 -------------------------------------------------------------------------------------------------------------
 GND                          : A2        : gnd    :                   :         :           :                
-GPIO_1[8]                    : A3        : bidir  : 3.3-V LVTTL       :         : 3         : N              
+GND*                         : A3        :        :                   :         : 3         :                
 VCCIO3                       : A4        : power  :                   : 3.3V    : 3         :                
 GND*                         : A5        :        :                   :         : 3         :                
 GND*                         : A6        :        :                   :         : 3         :                
@@ -90,13 +90,13 @@ GND*                         : A20       :        :                   :         
 GND*                         : A21       :        :                   :         : 4         :                
 GND*                         : A22       :        :                   :         : 4         :                
 GND*                         : A23       :        :                   :         : 4         :                
-GND*                         : A24       :        :                   :         : 4         :                
+GPIO_1[5]                    : A24       : bidir  : 3.3-V LVTTL       :         : 4         : N              
 GND*                         : A25       :        :                   :         : 4         :                
 GND*                         : A26       :        :                   :         : 4         :                
 VCCIO4                       : A27       : power  :                   : 3.3V    : 4         :                
 GND*                         : A28       :        :                   :         : 4         :                
 GND                          : A29       : gnd    :                   :         :           :                
-GND*                         : AA1       :        :                   :         : 1         :                
+GPIO_1[12]                   : AA1       : bidir  : 3.3-V LVTTL       :         : 1         : N              
 GND*                         : AA2       :        :                   :         : 1         :                
 GND*                         : AA3       :        :                   :         : 1         :                
 DRAM0_ADDR[0]                : AA4       : output : 3.3-V LVTTL       :         : 1         : Y              
@@ -123,8 +123,8 @@ GND*                         : AA24      :        :                   :         
 GND*                         : AA25      :        :                   :         : 6         :                
 GND*                         : AA26      :        :                   :         : 6         :                
 GND*                         : AA27      :        :                   :         : 6         :                
-GND*                         : AA28      :        :                   :         : 6         :                
-GND*                         : AA29      :        :                   :         : 6         :                
+GPIO_1[0]                    : AA28      : bidir  : 3.3-V LVTTL       :         : 6         : N              
+GPIO_1[13]                   : AA29      : bidir  : 3.3-V LVTTL       :         : 6         : N              
 GND*                         : AA30      :        :                   :         : 6         :                
 GND*                         : AB1       :        :                   :         : 1         :                
 GND*                         : AB2       :        :                   :         : 1         :                
@@ -148,7 +148,7 @@ GND*                         : AB19      :        :                   :         
 VCCIO7                       : AB20      : power  :                   : 3.3V    : 7         :                
 GND                          : AB21      : gnd    :                   :         :           :                
 VCCD_PLL4                    : AB22      : power  :                   : 1.2V    :           :                
-DE2_70_VIDEOIN_PIXEL_CLK_RESET : AB23      : input  : 3.3-V LVTTL       :         : 6         : N              
+GND*                         : AB23      :        :                   :         : 6         :                
 GND*                         : AB24      :        :                   :         : 6         :                
 GND*                         : AB25      :        :                   :         : 6         :                
 GND*                         : AB26      :        :                   :         : 6         :                
@@ -174,7 +174,7 @@ GND+                         : AC15      :        :                   :         
 DE2_70_SRAM_ADDR[14]         : AC16      : output : 3.3-V LVTTL       :         : 7         : Y              
 GND*                         : AC17      :        :                   :         : 7         :                
 DE2_70_SRAM_ADSP_N           : AC18      : output : 3.3-V LVTTL       :         : 7         : Y              
-GPIO_1[3]                    : AC19      : bidir  : 3.3-V LVTTL       :         : 7         : N              
+GND*                         : AC19      :        :                   :         : 7         :                
 DE2_70_SRAM_BE_N[1]          : AC20      : output : 3.3-V LVTTL       :         : 7         : Y              
 DE2_70_SRAM_BE_N[0]          : AC21      : output : 3.3-V LVTTL       :         : 7         : Y              
 VCCA_PLL4                    : AC22      : power  :                   : 1.2V    :           :                
@@ -204,7 +204,7 @@ CLOCK_50                     : AD15      : input  : 3.3-V LVTTL       :         
 DE2_70_SRAM_ADV_N            : AD16      : output : 3.3-V LVTTL       :         : 7         : Y              
 GND*                         : AD17      :        :                   :         : 7         :                
 DE2_70_SRAM_OE_N             : AD18      : output : 3.3-V LVTTL       :         : 7         : Y              
-GPIO_1[7]                    : AD19      : bidir  : 3.3-V LVTTL       :         : 7         : N              
+GND*                         : AD19      :        :                   :         : 7         :                
 DE2_70_SRAM_BE_N[2]          : AD20      : output : 3.3-V LVTTL       :         : 7         : Y              
 GND*                         : AD21      :        :                   :         : 7         :                
 DE2_70_SRAM_CE3_N            : AD22      : output : 3.3-V LVTTL       :         : 7         : Y              
@@ -261,7 +261,7 @@ GND*                         : AF12      :        :                   :         
 VCCIO8                       : AF13      : power  :                   : 3.3V    : 8         :                
 DE2_70_SRAM_ADDR[10]         : AF14      : output : 3.3-V LVTTL       :         : 8         : Y              
 DE2_70_SRAM_ADDR[13]         : AF15      : output : 3.3-V LVTTL       :         : 8         : Y              
-GPIO_1[6]                    : AF16      : bidir  : 3.3-V LVTTL       :         : 7         : N              
+GND*                         : AF16      :        :                   :         : 7         :                
 GND*                         : AF17      :        :                   :         : 7         :                
 DE2_70_SRAM_WE_N             : AF18      : output : 3.3-V LVTTL       :         : 7         : Y              
 VCCIO7                       : AF19      : power  :                   : 3.3V    : 7         :                
@@ -309,7 +309,7 @@ VCCIO6                       : AG30      : power  :                   : 3.3V    
 DRAM_DQ[14]                  : AH1       : bidir  : 3.3-V LVTTL       :         : 1         : Y              
 DRAM_DQ[15]                  : AH2       : bidir  : 3.3-V LVTTL       :         : 1         : Y              
 GND*                         : AH3       :        :                   :         : 8         :                
-GPIO_1[11]                   : AH4       : bidir  : 3.3-V LVTTL       :         : 8         : N              
+GND*                         : AH4       :        :                   :         : 8         :                
 GND*                         : AH5       :        :                   :         : 8         :                
 GND                          : AH6       : gnd    :                   :         :           :                
 DE2_70_SRAM_ADDR[2]          : AH7       : output : 3.3-V LVTTL       :         : 8         : Y              
@@ -327,7 +327,7 @@ DE2_70_SRAM_DQ[12]           : AH18      : bidir  : 3.3-V LVTTL       :         
 DE2_70_SRAM_CE1_N            : AH19      : output : 3.3-V LVTTL       :         : 7         : Y              
 DE2_70_SRAM_BE_N[3]          : AH20      : output : 3.3-V LVTTL       :         : 7         : Y              
 VCCIO7                       : AH21      : power  :                   : 3.3V    : 7         :                
-GND*                         : AH22      :        :                   :         : 7         :                
+GPIO_1[11]                   : AH22      : bidir  : 3.3-V LVTTL       :         : 7         : N              
 VCCIO7                       : AH23      : power  :                   : 3.3V    : 7         :                
 GND*                         : AH24      :        :                   :         : 7         :                
 GND                          : AH25      : gnd    :                   :         :           :                
@@ -340,7 +340,7 @@ GND                          : AJ1       : gnd    :                   :         
 GND*                         : AJ2       :        :                   :         : 8         :                
 GND*                         : AJ3       :        :                   :         : 8         :                
 GND*                         : AJ4       :        :                   :         : 8         :                
-GND*                         : AJ5       :        :                   :         : 8         :                
+GPIO_1[8]                    : AJ5       : bidir  : 3.3-V LVTTL       :         : 8         : N              
 GND*                         : AJ6       :        :                   :         : 8         :                
 GND*                         : AJ7       :        :                   :         : 8         :                
 DE2_70_SRAM_DQ[30]           : AJ8       : bidir  : 3.3-V LVTTL       :         : 8         : Y              
@@ -360,7 +360,7 @@ DE2_70_SRAM_DQ[18]           : AJ21      : bidir  : 3.3-V LVTTL       :         
 DE2_70_SRAM_DQ[20]           : AJ22      : bidir  : 3.3-V LVTTL       :         : 7         : Y              
 DE2_70_SRAM_DPA[1]           : AJ23      : bidir  : 3.3-V LVTTL       :         : 7         : Y              
 GND*                         : AJ24      :        :                   :         : 7         :                
-GPIO_1[1]                    : AJ25      : bidir  : 3.3-V LVTTL       :         : 7         : N              
+GND*                         : AJ25      :        :                   :         : 7         :                
 GND*                         : AJ26      :        :                   :         : 7         :                
 GND*                         : AJ27      :        :                   :         : 7         :                
 GND*                         : AJ28      :        :                   :         : 7         :                
@@ -432,7 +432,7 @@ GND*                         : C5        :        :                   :         
 GND                          : C6        : gnd    :                   :         :           :                
 GND*                         : C7        :        :                   :         : 3         :                
 VCCIO3                       : C8        : power  :                   : 3.3V    : 3         :                
-GPIO_1[13]                   : C9        : bidir  : 3.3-V LVTTL       :         : 3         : N              
+GND*                         : C9        :        :                   :         : 3         :                
 GND*                         : C10       :        :                   :         : 3         :                
 VCCIO3                       : C11       : power  :                   : 3.3V    : 3         :                
 DE2_70_VGA_OUT_G[3]          : C12       : output : 3.3-V LVTTL       :         : 3         : Y              
@@ -514,8 +514,8 @@ GND*                         : E27       :        :                   :         
 GND*                         : E28       :        :                   :         : 5         :                
 GND*                         : E29       :        :                   :         : 5         :                
 GND*                         : E30       :        :                   :         : 5         :                
-GND*                         : F1        :        :                   :         : 2         :                
-GPIO_1[2]                    : F2        : bidir  : 3.3-V LVTTL       :         : 2         : N              
+GPIO_1[10]                   : F1        : bidir  : 3.3-V LVTTL       :         : 2         : N              
+GND*                         : F2        :        :                   :         : 2         :                
 GND*                         : F3        :        :                   :         : 2         :                
 GND*                         : F4        :        :                   :         : 2         :                
 VCCIO2                       : F5        : power  :                   : 3.3V    : 2         :                
@@ -537,7 +537,7 @@ DE2_70_VGA_OUT_R[7]          : F20       : output : 3.3-V LVTTL       :         
 VCCIO4                       : F21       : power  :                   : 3.3V    : 4         :                
 GND                          : F22       : gnd    :                   :         :           :                
 GND*                         : F23       :        :                   :         : 4         :                
-GND*                         : F24       :        :                   :         : 4         :                
+GPIO_1[7]                    : F24       : bidir  : 3.3-V LVTTL       :         : 4         : N              
 GND                          : F25       : gnd    :                   :         :           :                
 VCCIO5                       : F26       : power  :                   : 3.3V    : 5         :                
 GND*                         : F27       :        :                   :         : 5         :                
@@ -557,11 +557,11 @@ GND*                         : G10       :        :                   :         
 GND*                         : G11       :        :                   :         : 3         :                
 GND*                         : G12       :        :                   :         : 3         :                
 GND*                         : G13       :        :                   :         : 3         :                
-GPIO_1[12]                   : G14       : bidir  : 3.3-V LVTTL       :         : 3         : N              
+GND*                         : G14       :        :                   :         : 3         :                
 GND+                         : G15       :        :                   :         : 3         :                
 GND*                         : G16       :        :                   :         : 4         :                
-GND*                         : G17       :        :                   :         : 4         :                
-GPIO_1[9]                    : G18       : bidir  : 3.3-V LVTTL       :         : 4         : N              
+GPIO_1[4]                    : G17       : bidir  : 3.3-V LVTTL       :         : 4         : N              
+GND*                         : G18       :        :                   :         : 4         :                
 GND*                         : G19       :        :                   :         : 4         :                
 DE2_70_VGA_OUT_R[9]          : G20       : output : 3.3-V LVTTL       :         : 4         : Y              
 DE2_70_VGA_OUT_R[5]          : G21       : output : 3.3-V LVTTL       :         : 4         : Y              
@@ -573,11 +573,11 @@ GND*                         : G26       :        :                   :         
 DE2_70_VIDEOIN_PIXEL_DATA[11] : G27       : input  : 3.3-V LVTTL       :         : 5         : Y              
 DE2_70_VIDEOIN_PIXEL_DATA[10] : G28       : input  : 3.3-V LVTTL       :         : 5         : Y              
 GND*                         : G29       :        :                   :         : 5         :                
-GND*                         : G30       :        :                   :         : 5         :                
+GPIO_1[3]                    : G30       : bidir  : 3.3-V LVTTL       :         : 5         : N              
 GND*                         : H1        :        :                   :         : 2         :                
 GND*                         : H2        :        :                   :         : 2         :                
 GND*                         : H3        :        :                   :         : 2         :                
-GND*                         : H4        :        :                   :         : 2         :                
+GPIO_1[1]                    : H4        : bidir  : 3.3-V LVTTL       :         : 2         : N              
 GND*                         : H5        :        :                   :         : 2         :                
 GND*                         : H6        :        :                   :         : 2         :                
 GND*                         : H7        :        :                   :         : 2         :                
@@ -604,7 +604,7 @@ DE2_70_VIDEOIN_PIXEL_DATA[9] : H27       : input  : 3.3-V LVTTL       :         
 DE2_70_VIDEOIN_PIXEL_DATA[7] : H28       : input  : 3.3-V LVTTL       :         : 5         : Y              
 GND*                         : H29       :        :                   :         : 5         :                
 GND*                         : H30       :        :                   :         : 5         :                
-GND*                         : J1        :        :                   :         : 2         :                
+DE2_70_VIDEOIN_PIXEL_CLK_RESET : J1        : input  : 3.3-V LVTTL       :         : 2         : N              
 GND*                         : J2        :        :                   :         : 2         :                
 VCCIO2                       : J3        : power  :                   : 3.3V    : 2         :                
 GND                          : J4        : gnd    :                   :         :           :                
@@ -627,7 +627,7 @@ VCCIO4                       : J20       : power  :                   : 3.3V    
 GND                          : J21       : gnd    :                   :         :           :                
 VCCD_PLL2                    : J22       : power  :                   : 1.2V    :           :                
 VCCIO5                       : J23       : power  :                   : 3.3V    : 5         :                
-GPIO_1[4]                    : J24       : bidir  : 3.3-V LVTTL       :         : 5         : N              
+GND*                         : J24       :        :                   :         : 5         :                
 GND*                         : J25       :        :                   :         : 5         :                
 GND*                         : J26       :        :                   :         : 5         :                
 GND                          : J27       : gnd    :                   :         :           :                
@@ -637,7 +637,7 @@ GND*                         : J30       :        :                   :         
 GND*                         : K1        :        :                   :         : 2         :                
 GND*                         : K2        :        :                   :         : 2         :                
 GND*                         : K3        :        :                   :         : 2         :                
-GPIO_1[10]                   : K4        : bidir  : 3.3-V LVTTL       :         : 2         : N              
+GND*                         : K4        :        :                   :         : 2         :                
 GND*                         : K5        :        :                   :         : 2         :                
 GND*                         : K6        :        :                   :         : 2         :                
 GND*                         : K7        :        :                   :         : 2         :                
@@ -725,7 +725,7 @@ GND*                         : M28       :        :                   :         
 DE2_70_AV_CONFIG_SCLK        : M29       : output : 3.3-V LVTTL       :         : 5         : Y              
 GND*                         : M30       :        :                   :         : 5         :                
 GND                          : N1        : gnd    :                   :         :           :                
-GPIO_1[0]                    : N2        : bidir  : 3.3-V LVTTL       :         : 2         : N              
+GND*                         : N2        :        :                   :         : 2         :                
 GND*                         : N3        :        :                   :         : 2         :                
 GND*                         : N4        :        :                   :         : 2         :                
 VCCIO2                       : N5        : power  :                   : 3.3V    : 2         :                
@@ -746,7 +746,7 @@ VCCINT                       : N19       : power  :                   : 1.2V    
 VCCINT                       : N20       : power  :                   : 1.2V    :           :                
 GND*                         : N21       :        :                   :         : 5         :                
 GND*                         : N22       :        :                   :         : 5         :                
-GPIO_1[5]                    : N23       : bidir  : 3.3-V LVTTL       :         : 5         : N              
+GND*                         : N23       :        :                   :         : 5         :                
 GND*                         : N24       :        :                   :         : 5         :                
 GND*                         : N25       :        :                   :         : 5         :                
 GND                          : N26       : gnd    :                   :         :           :                
@@ -848,7 +848,7 @@ GND*                         : U1        :        :                   :         
 GND*                         : U2        :        :                   :         : 1         :                
 GND*                         : U3        :        :                   :         : 1         :                
 GND*                         : U4        :        :                   :         : 1         :                
-GND*                         : U5        :        :                   :         : 1         :                
+GPIO_1[2]                    : U5        : bidir  : 3.3-V LVTTL       :         : 1         : N              
 GND*                         : U6        :        :                   :         : 1         :                
 GND*                         : U7        :        :                   :         : 1         :                
 GND*                         : U8        :        :                   :         : 1         :                
@@ -933,7 +933,7 @@ GND*                         : W26       :        :                   :         
 GND*                         : W27       :        :                   :         : 6         :                
 GND*                         : W28       :        :                   :         : 6         :                
 GND*                         : W29       :        :                   :         : 6         :                
-GND*                         : W30       :        :                   :         : 6         :                
+GPIO_1[6]                    : W30       : bidir  : 3.3-V LVTTL       :         : 6         : N              
 GND*                         : Y1        :        :                   :         : 1         :                
 GND*                         : Y2        :        :                   :         : 1         :                
 GND*                         : Y3        :        :                   :         : 1         :                
@@ -958,7 +958,7 @@ GND*                         : Y21       :        :                   :         
 GND*                         : Y22       :        :                   :         : 6         :                
 GND*                         : Y23       :        :                   :         : 6         :                
 GND*                         : Y24       :        :                   :         : 6         :                
-GND*                         : Y25       :        :                   :         : 6         :                
+GPIO_1[9]                    : Y25       : bidir  : 3.3-V LVTTL       :         : 6         : N              
 GND*                         : Y26       :        :                   :         : 6         :                
 GND*                         : Y27       :        :                   :         : 6         :                
 GND*                         : Y28       :        :                   :         : 6         :                
